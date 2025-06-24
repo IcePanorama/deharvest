@@ -1,0 +1,1140 @@
+[1750799479] [INFO    ] Watcom Disassembly Tool (wcdatool)
+[1750799479] [INFO    ] 
+[1750799479] [INFO    ] Command line:
+[1750799479] [DEBUG   ] wcdatool.py -od /home/main/wcdatool/Scripts/../Output /home/main/wcdatool/Scripts/../Executables/HARVEST.EXE
+[1750799479] [INFO    ] 
+[1750799479] [INFO    ] Parsing wdump output:
+[1750799479] [DEBUG   ] Generating output for file '/home/main/wcdatool/Scripts/../Executables/HARVEST.EXE'...
+[1750799479] [DEBUG   ] Running command 'wdump -Dx -a /home/main/wcdatool/Scripts/../Executables/HARVEST.EXE'...
+[1750799479] [DEBUG   ] Writing plain output to file (28640 lines)...
+[1750799479] [DEBUG   ] Processing output (28640 lines)...
+[1750799479] [WARNING ] Stray line: 'Open Watcom Executable Image Dump Utility'
+[1750799479] [WARNING ] Stray line: 'Version 2.0 beta Jun 24 2025 02:45:36 (32-bit)'
+[1750799479] [WARNING ] Stray line: 'Copyright (c) 2002-2025 The Open Watcom Contributors. All Rights Reserved.'
+[1750799479] [WARNING ] Stray line: 'Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.'
+[1750799479] [WARNING ] Stray line: 'Source code is available under the Sybase Open Watcom Public License.'
+[1750799479] [WARNING ] Stray line: 'See https://github.com/open-watcom/open-watcom-v2#readme for details.'
+[1750799479] [INFO    ] Identified sections:
+[1750799479] [DEBUG   ] DOS EXE Header
+[1750799479] [DEBUG   ] DOS/16M EXE Header - BW
+[1750799479] [DEBUG   ] DOS/16M EXE Header
+[1750799479] [DEBUG   ] Master Debug Info
+[1750799479] [DEBUG   ] Module Info (section 0)
+[1750799479] [DEBUG   ] Global Info (section 0)
+[1750799479] [DEBUG   ] Addr Info (section 0)
+[1750799479] [INFO    ] Decoding section data...
+[1750799479] [DEBUG   ] Section 'DOS EXE Header'...
+[1750799479] [DEBUG   ] Section 'DOS/16M EXE Header - BW'...
+[1750799479] [DEBUG   ] Section 'DOS/16M EXE Header'...
+[1750799479] [DEBUG   ] Section 'Master Debug Info'...
+[1750799479] [DEBUG   ] Section 'Module Info (section 0)'...
+[1750799479] [DEBUG   ] Section 'Global Info (section 0)'...
+[1750799479] [DEBUG   ] Section 'Addr Info (section 0)'...
+[1750799479] [INFO    ] Merging numbered sections...
+[1750799479] [DEBUG   ] Section 'Module Info (section 0)' -> 'Module Info'...
+[1750799479] [DEBUG   ] Section 'Global Info (section 0)' -> 'Global Info'...
+[1750799479] [DEBUG   ] Section 'Addr Info (section 0)' -> 'Addr Info'...
+[1750799479] [INFO    ] Final sections:
+[1750799479] [DEBUG   ] DOS EXE Header
+[1750799479] [DEBUG   ] DOS/16M EXE Header - BW
+[1750799479] [DEBUG   ] DOS/16M EXE Header
+[1750799479] [DEBUG   ] Master Debug Info
+[1750799479] [DEBUG   ] Module Info
+[1750799479] [DEBUG   ] Global Info
+[1750799479] [DEBUG   ] Addr Info
+[1750799479] [INFO    ] Writing parsed output to file (19719 lines)...
+[1750799479] [INFO    ] 
+[1750799479] [INFO    ] Extracting DOS/4G(W) stub and payload:
+[1750799479] [DEBUG   ] Offset of DOS/4G(W) payload: 0x41534
+[1750799479] [DEBUG   ] Opening input file to read data...
+[1750799479] [DEBUG   ] Reading DOS/4G(W) stub data (offset 0x0 - 0x41533)...
+[1750799479] [DEBUG   ] Reading DOS/4G(W) payload data (offset 0x41534 - EOF)...
+[1750799479] [DEBUG   ] Writing DOS/4G(W) stub data to file (267572 bytes)...
+[1750799479] [DEBUG   ] Writing DOS/4G(W) payload data to file (905507 bytes)...
+[1750799479] [DEBUG   ] Re-Running wdump parser for DOS/4G(W) payload...
+[1750799479] [INFO    ] 
+[1750799479] [INFO    ] Parsing wdump output:
+[1750799479] [DEBUG   ] Generating output for file '/home/main/wcdatool/Scripts/../Output/HARVEST.EXE_split_dos4g_payload.exe'...
+[1750799479] [DEBUG   ] Running command 'wdump -Dx -a /home/main/wcdatool/Scripts/../Output/HARVEST.EXE_split_dos4g_payload.exe'...
+[1750799479] [DEBUG   ] Writing plain output to file (74112 lines)...
+[1750799479] [DEBUG   ] Processing output (74112 lines)...
+[1750799479] [WARNING ] Stray line: 'Open Watcom Executable Image Dump Utility'
+[1750799479] [WARNING ] Stray line: 'Version 2.0 beta Jun 24 2025 02:45:36 (32-bit)'
+[1750799479] [WARNING ] Stray line: 'Copyright (c) 2002-2025 The Open Watcom Contributors. All Rights Reserved.'
+[1750799479] [WARNING ] Stray line: 'Portions Copyright (c) 1984-2002 Sybase, Inc. All Rights Reserved.'
+[1750799479] [WARNING ] Stray line: 'Source code is available under the Sybase Open Watcom Public License.'
+[1750799479] [WARNING ] Stray line: 'See https://github.com/open-watcom/open-watcom-v2#readme for details.'
+[1750799479] [INFO    ] Identified sections:
+[1750799479] [DEBUG   ] DOS EXE Header
+[1750799479] [DEBUG   ] Linear EXE Header (OS/2 V2.x) - LE
+[1750799479] [DEBUG   ] Object Table
+[1750799479] [DEBUG   ] Resident Names Table
+[1750799479] [DEBUG   ] Fixup Page Table
+[1750799479] [DEBUG   ] Fixup Record Table
+[1750799479] [DEBUG   ] Nonresident Names Table
+[1750799479] [DEBUG   ] Master Debug Info
+[1750799479] [DEBUG   ] Module Info (section 0)
+[1750799479] [DEBUG   ] Global Info (section 0)
+[1750799479] [DEBUG   ] Addr Info (section 0)
+[1750799479] [INFO    ] Decoding section data...
+[1750799479] [DEBUG   ] Section 'DOS EXE Header'...
+[1750799479] [DEBUG   ] Section 'Linear EXE Header (OS/2 V2.x) - LE'...
+[1750799479] [DEBUG   ] Section 'Object Table'...
+[1750799479] [DEBUG   ] Section 'Resident Names Table'...
+[1750799479] [DEBUG   ] Section 'Fixup Page Table'...
+[1750799479] [DEBUG   ] Section 'Fixup Record Table'...
+[1750799479] [WARNING ] Invalid data: '02 00 src off = 0988 object # = 03 target off ='
+[1750799479] [DEBUG   ] Section 'Nonresident Names Table'...
+[1750799479] [DEBUG   ] Section 'Master Debug Info'...
+[1750799479] [DEBUG   ] Section 'Module Info (section 0)'...
+[1750799479] [DEBUG   ] Section 'Global Info (section 0)'...
+[1750799479] [DEBUG   ] Section 'Addr Info (section 0)'...
+[1750799479] [INFO    ] Merging numbered sections...
+[1750799479] [DEBUG   ] Section 'Module Info (section 0)' -> 'Module Info'...
+[1750799479] [DEBUG   ] Section 'Global Info (section 0)' -> 'Global Info'...
+[1750799479] [DEBUG   ] Section 'Addr Info (section 0)' -> 'Addr Info'...
+[1750799479] [INFO    ] Final sections:
+[1750799479] [DEBUG   ] DOS EXE Header
+[1750799479] [DEBUG   ] Linear EXE Header (OS/2 V2.x) - LE
+[1750799479] [DEBUG   ] Object Table
+[1750799479] [DEBUG   ] Resident Names Table
+[1750799479] [DEBUG   ] Fixup Page Table
+[1750799479] [DEBUG   ] Fixup Record Table
+[1750799479] [DEBUG   ] Nonresident Names Table
+[1750799479] [DEBUG   ] Master Debug Info
+[1750799479] [DEBUG   ] Module Info
+[1750799479] [DEBUG   ] Global Info
+[1750799479] [DEBUG   ] Addr Info
+[1750799479] [INFO    ] Writing parsed output to file (190982 lines)...
+[1750799479] [INFO    ] 
+[1750799479] [INFO    ] Extracting linear executable stub and payload:
+[1750799479] [DEBUG   ] Offset of linear executable payload: 0x2a50
+[1750799479] [DEBUG   ] Opening input file to read data...
+[1750799479] [DEBUG   ] Reading linear executable stub data (offset 0x0 - 0x2a4f)...
+[1750799479] [DEBUG   ] Reading linear executable payload data (offset 0x2a50 - EOF)...
+[1750799479] [DEBUG   ] Writing linear executable stub data to file (10832 bytes)...
+[1750799479] [DEBUG   ] Writing linear executable payload data to file (894675 bytes)...
+[1750799479] [INFO    ] 
+[1750799479] [INFO    ] Reading and decoding fixup/relocation data:
+[1750799479] [DEBUG   ] Determining fixup tables offsets/sizes...
+[1750799479] [DEBUG   ] Opening input file to read data...
+[1750799479] [DEBUG   ] Seeking to offset 0x2dc6...
+[1750799479] [DEBUG   ] Reading fixup data...
+[1750799479] [DEBUG   ] Writing fixup data to file (181519 bytes)...
+[1750799479] [DEBUG   ] Decoding fixup page table...
+[1750799479] [DEBUG   ] Decoding fixup record table...
+[1750799480] [DEBUG   ] Calculating source offsets relative to parent object...
+[1750799480] [WARNING ] Object 2 has no pages
+[1750799480] [DEBUG   ] Decoding import module name table...
+[1750799480] [DEBUG   ] Decoding import procedure name table...
+[1750799480] [WARNING ] String 1 is empty
+[1750799481] [DEBUG   ] Writing decoded data to file (1033539 lines)...
+[1750799481] [INFO    ] 
+[1750799481] [INFO    ] Disassembling objects:
+[1750799481] [INFO    ] 
+[1750799481] [INFO    ] Preprocessing objects, modules, globals and fixups:
+[1750799481] [DEBUG   ] Preprocessing objects...
+[1750799481] [DEBUG   ] Preprocessed 3 objects
+[1750799481] [DEBUG   ] Preprocessing modules...
+[1750799481] [DEBUG   ] Preprocessed 309 modules
+[1750799481] [DEBUG   ] Preprocessing globals...
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'detected' -> 'detected_mod_4'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'simulate_real_mode_interrupt' -> 'simulate_real_mode_interrupt_mod_8'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'bogus' -> 'bogus_mod_9'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_9'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_9'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_9'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'load_from_file' -> 'load_from_file_mod_11'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_11'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'play' -> 'play_mod_11'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'setvgapalette' -> 'setvgapalette_mod_14'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'been_here' -> 'been_here_mod_67'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_67'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_67'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_68'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'do_variable' -> 'do_variable_mod_68'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_68'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_71'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_71'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'cr' -> 'cr_mod_72'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_73'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_73'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'would_compress' -> 'would_compress_mod_74'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'scale' -> 'scale_mod_75'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'resize' -> 'resize_mod_76'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'initialize' -> 'initialize_mod_76'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'move' -> 'move_mod_76'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'go_to_frame' -> 'go_to_frame_mod_76'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_76'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_76_2'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_76_3'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_76_4'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'clear' -> 'clear_mod_76'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'show' -> 'show_mod_78'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'hide' -> 'hide_mod_78'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_78'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'text_puts' -> 'text_puts_mod_80'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'refresh' -> 'refresh_mod_81'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_84'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_84'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_84'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'been_here' -> 'been_here_mod_88'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_88'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_88'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'first_time' -> 'first_time_mod_89'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'update' -> 'update_mod_90'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.fn_init' -> '.fn_init_mod_92'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'set' -> 'set_mod_92'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '.mod_init' -> '.mod_init_mod_92'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'buffer' -> 'buffer_mod_93'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: '_Alphabet' -> '_Alphabet_mod_246'
+[1750799481] [WARNING ] Renaming global to prevent name clashing: 'init' -> 'init_mod_285'
+[1750799481] [DEBUG   ] Preprocessed 2023 globals
+[1750799481] [DEBUG   ] Preprocessing fixups...
+[1750799481] [WARNING ] [FIXME] Skipping fixup record with missing 'target offset':
+[1750799481] [WARNING ] OrderedDict({'num': 20228, 'page': 120, 'offset start': 0, 'offset end': 5, 'size': 5, 'source flags': 2, 'source flags type': 2, 'source flags alias': 0, 'source flags list': 0, 'target flags': 0, 'target flags type': 0, 'target flags additive': 0, 'target flags reserved': 0, 'target flags offset type': 0, 'target flags additive type': 0, 'target flags obj/mod type': 0, 'target flags ordinal type': 0, 'source object': 1, 'source offset': 2440, 'source offset 2': 489864, 'target object': 3})
+[1750799481] [DEBUG   ] Preprocessed 21703 fixups
+[1750799481] [INFO    ] 
+[1750799481] [INFO    ] Processing fixups further:
+[1750799481] [DEBUG   ] Generating fixup maps...
+[1750799481] [DEBUG   ] Source map: 21693 entries, target map: 7503 entries
+[1750799481] [DEBUG   ] Analyzing fixup references...
+[1750799481] [DEBUG   ] Added 6673 globals for fixup references (8696 globals total)
+[1750799481] [INFO    ] 
+[1750799481] [INFO    ] Building data maps for code objects:
+[1750799481] [DEBUG   ] Building data map for object 1...
+[1750799481] [DEBUG   ] Data map for object 1 has 1420 entries
+[1750799481] [DEBUG   ] Checking consistency of data map for object 1...
+[1750799481] [DEBUG   ] Data map of object 1 is consistent
+[1750799481] [INFO    ] 
+[1750799481] [INFO    ] Generating plain disassembly for code objects:
+[1750799481] [DEBUG   ] Generating plain disassembly for object 1...
+[1750799489] [DEBUG   ] Size of plain disassembly: 154258 lines, 7827028 bytes
+[1750799489] [INFO    ] 
+[1750799489] [INFO    ] Analyzing plain disassembly of code objects:
+[1750799489] [DEBUG   ] Analyzing branches...
+[1750799489] [WARNING ] Fixup takes precedence: num: 1836, src obj: 1, src ofs: 0xf714, dst obj: 1, dst ofs: 0xf77f
+[1750799489] [WARNING ] before: f714:	7f f7                	jg     0xf70d
+[1750799489] [WARNING ] after:  f714:	7f f7                	jg     0xf77f
+[1750799489] [ERROR   ] Multiple fixups for branch:     f740:	e9 fe 00 00 fc       	jmp    0xfc00f843
+[1750799489] [ERROR   ] num: 1825, src obj: 1, src ofs: 0xf740, dst obj: 1, dst ofs: 0xfee9
+[1750799489] [ERROR   ] num: 1824, src obj: 1, src ofs: 0xf744, dst obj: 1, dst ofs: 0x100fc
+[1750799489] [WARNING ] Fixup takes precedence: num: 1865, src obj: 1, src ofs: 0x105e0, dst obj: 1, dst ofs: 0x10ce2
+[1750799489] [WARNING ] before: 105e0:	e2 0c                	loop   0x105ee
+[1750799489] [WARNING ] after:  105e0:	e2 0c                	loop   0x10ce2
+[1750799489] [WARNING ] Fixup takes precedence: num: 1864, src obj: 1, src ofs: 0x105e4, dst obj: 1, dst ofs: 0x10ce2
+[1750799489] [WARNING ] before: 105e4:	e2 0c                	loop   0x105f2
+[1750799489] [WARNING ] after:  105e4:	e2 0c                	loop   0x10ce2
+[1750799489] [WARNING ] Fixup takes precedence: num: 1862, src obj: 1, src ofs: 0x105ec, dst obj: 1, dst ofs: 0x10ce2
+[1750799489] [WARNING ] before: 105ec:	e2 0c                	loop   0x105fa
+[1750799489] [WARNING ] after:  105ec:	e2 0c                	loop   0x10ce2
+[1750799489] [WARNING ] Fixup takes precedence: num: 1861, src obj: 1, src ofs: 0x105f0, dst obj: 1, dst ofs: 0x10ce2
+[1750799489] [WARNING ] before: 105f0:	e2 0c                	loop   0x105fe
+[1750799489] [WARNING ] after:  105f0:	e2 0c                	loop   0x10ce2
+[1750799489] [WARNING ] Fixup takes precedence: num: 1860, src obj: 1, src ofs: 0x105f4, dst obj: 1, dst ofs: 0x10ce2
+[1750799489] [WARNING ] before: 105f4:	e2 0c                	loop   0x10602
+[1750799489] [WARNING ] after:  105f4:	e2 0c                	loop   0x10ce2
+[1750799489] [WARNING ] Fixup takes precedence: num: 10838, src obj: 1, src ofs: 0x3d560, dst obj: 1, dst ofs: 0x41376
+[1750799489] [WARNING ] before: 3d560:	76 13                	jbe    0x3d575
+[1750799489] [WARNING ] after:  3d560:	76 13                	jbe    0x41376
+[1750799489] [WARNING ] Fixup takes precedence: num: 10834, src obj: 1, src ofs: 0x3d570, dst obj: 1, dst ofs: 0x3ed7c
+[1750799489] [WARNING ] before: 3d570:	7c ed                	jl     0x3d55f
+[1750799489] [WARNING ] after:  3d570:	7c ed                	jl     0x3ed7c
+[1750799489] [WARNING ] Fixup takes precedence: num: 10833, src obj: 1, src ofs: 0x3d574, dst obj: 1, dst ofs: 0x3f179
+[1750799489] [WARNING ] before: 3d574:	79 f1                	jns    0x3d567
+[1750799489] [WARNING ] after:  3d574:	79 f1                	jns    0x3f179
+[1750799489] [WARNING ] Fixup takes precedence: num: 10830, src obj: 1, src ofs: 0x3d580, dst obj: 1, dst ofs: 0x3f5e3
+[1750799489] [WARNING ] before: 3d580:	e3 f5                	jecxz  0x3d577
+[1750799489] [WARNING ] after:  3d580:	e3 f5                	jecxz  0x3f5e3
+[1750799489] [WARNING ] Fixup takes precedence: num: 10741, src obj: 1, src ofs: 0x3d600, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d600:	7d 15                	jge    0x3d617
+[1750799489] [WARNING ] after:  3d600:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10740, src obj: 1, src ofs: 0x3d604, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d604:	7d 15                	jge    0x3d61b
+[1750799489] [WARNING ] after:  3d604:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10739, src obj: 1, src ofs: 0x3d608, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d608:	7d 15                	jge    0x3d61f
+[1750799489] [WARNING ] after:  3d608:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10738, src obj: 1, src ofs: 0x3d60c, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d60c:	7d 15                	jge    0x3d623
+[1750799489] [WARNING ] after:  3d60c:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10849, src obj: 1, src ofs: 0x3d624, dst obj: 1, dst ofs: 0x40678
+[1750799489] [WARNING ] before: 3d624:	78 06                	js     0x3d62c
+[1750799489] [WARNING ] after:  3d624:	78 06                	js     0x40678
+[1750799489] [WARNING ] Fixup takes precedence: num: 10842, src obj: 1, src ofs: 0x3d640, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d640:	7d 15                	jge    0x3d657
+[1750799489] [WARNING ] after:  3d640:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10841, src obj: 1, src ofs: 0x3d644, dst obj: 1, dst ofs: 0x40a75
+[1750799489] [WARNING ] before: 3d644:	75 0a                	jne    0x3d650
+[1750799489] [WARNING ] after:  3d644:	75 0a                	jne    0x40a75
+[1750799489] [WARNING ] Fixup takes precedence: num: 10840, src obj: 1, src ofs: 0x3d648, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d648:	7d 15                	jge    0x3d65f
+[1750799489] [WARNING ] after:  3d648:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10687, src obj: 1, src ofs: 0x3d64c, dst obj: 1, dst ofs: 0x4157d
+[1750799489] [WARNING ] before: 3d64c:	7d 15                	jge    0x3d663
+[1750799489] [WARNING ] after:  3d64c:	7d 15                	jge    0x4157d
+[1750799489] [WARNING ] Fixup takes precedence: num: 10782, src obj: 1, src ofs: 0x3d694, dst obj: 1, dst ofs: 0x41873
+[1750799489] [WARNING ] before: 3d694:	73 18                	jae    0x3d6ae
+[1750799489] [WARNING ] after:  3d694:	73 18                	jae    0x41873
+[1750799489] [WARNING ] Fixup takes precedence: num: 11420, src obj: 1, src ofs: 0x469f8, dst obj: 1, dst ofs: 0x46fe1
+[1750799489] [WARNING ] before: 469f8:	e1 6f                	loope  0x46a69
+[1750799489] [WARNING ] after:  469f8:	e1 6f                	loope  0x46fe1
+[1750799489] [WARNING ] Fixup takes precedence: num: 15138, src obj: 1, src ofs: 0x5dc50, dst obj: 1, dst ofs: 0x5ea0e
+[1750799489] [WARNING ] before: 5dc4d:	e9 05 00 0e ea       	jmp    0xea13dc57
+[1750799489] [WARNING ] after:  5dc4d:	e9 05 00 0e ea       	jmp    0x5ea0e
+[1750799489] [WARNING ] Fixup takes precedence: num: 20843, src obj: 1, src ofs: 0x7c0a8, dst obj: 1, dst ofs: 0x7c670
+[1750799489] [WARNING ] before: 7c0a8:	70 c6                	jo     0x7c070
+[1750799489] [WARNING ] after:  7c0a8:	70 c6                	jo     0x7c670
+[1750799489] [WARNING ] Fixup takes precedence: num: 21050, src obj: 1, src ofs: 0x7d058, dst obj: 1, dst ofs: 0x7d078
+[1750799489] [WARNING ] before: 7d058:	78 d0                	js     0x7d02a
+[1750799489] [WARNING ] after:  7d058:	78 d0                	js     0x7d078
+[1750799489] [WARNING ] Fixup takes precedence: num: 21198, src obj: 1, src ofs: 0x80640, dst obj: 1, dst ofs: 0x8077e
+[1750799489] [WARNING ] before: 80640:	7e 07                	jle    0x80649
+[1750799489] [WARNING ] after:  80640:	7e 07                	jle    0x8077e
+[1750799489] [WARNING ] Fixup takes precedence: num: 21195, src obj: 1, src ofs: 0x8064c, dst obj: 1, dst ofs: 0x80776
+[1750799489] [WARNING ] before: 8064c:	76 07                	jbe    0x80655
+[1750799489] [WARNING ] after:  8064c:	76 07                	jbe    0x80776
+[1750799489] [WARNING ] Fixup takes precedence: num: 21193, src obj: 1, src ofs: 0x80654, dst obj: 1, dst ofs: 0x8077e
+[1750799489] [WARNING ] before: 80654:	7e 07                	jle    0x8065d
+[1750799489] [WARNING ] after:  80654:	7e 07                	jle    0x8077e
+[1750799489] [WARNING ] Fixup takes precedence: num: 21192, src obj: 1, src ofs: 0x80658, dst obj: 1, dst ofs: 0x8077e
+[1750799489] [WARNING ] before: 80658:	7e 07                	jle    0x80661
+[1750799489] [WARNING ] after:  80658:	7e 07                	jle    0x8077e
+[1750799489] [DEBUG   ] Added 13184 globals for branches
+[1750799489] [DEBUG   ] Analyzing access sizes...
+[1750799494] [DEBUG   ] Added 1152 access sizes for globals
+[1750799494] [INFO    ] 
+[1750799494] [INFO    ] Generating disassembly structures for all objects:
+[1750799494] [INFO    ] Generating disassembly structure for object 1:
+[1750799494] [DEBUG   ] Adding object start...
+[1750799494] [DEBUG   ] Adding modules...
+[1750799494] [DEBUG   ] Added 285 modules
+[1750799494] [DEBUG   ] Adding hints...
+[1750799494] [DEBUG   ] Added 0 hints
+[1750799494] [DEBUG   ] Adding globals...
+[1750799502] [DEBUG   ] Added 15173 globals (1443 functions, 13184 branches, 0 variables, 546 references)
+[1750799502] [DEBUG   ] Adding bad code sections...
+[1750799502] [DEBUG   ] Added 137 bad code sections
+[1750799502] [DEBUG   ] Adding object end...
+[1750799502] [DEBUG   ] Finalizing structure...
+[1750799502] [DEBUG   ] Named 13730 structure items and 13730 globals
+[1750799502] [DEBUG   ] Sized 15172 structure items and 15172 globals
+[1750799502] [DEBUG   ] Structure: object: 2, module: 570, branch: 13184, function: 1443, bad code: 274, reference: 546, total: 16019
+[1750799502] [INFO    ] Generating disassembly structure for object 2:
+[1750799502] [DEBUG   ] Adding object start...
+[1750799502] [DEBUG   ] Adding virtual size padding start...
+[1750799502] [DEBUG   ] Adding modules...
+[1750799502] [DEBUG   ] Added 1 modules
+[1750799502] [DEBUG   ] Adding hints...
+[1750799502] [DEBUG   ] Added 0 hints
+[1750799502] [DEBUG   ] Adding globals...
+[1750799502] [DEBUG   ] Added 4 globals (0 functions, 0 branches, 4 variables, 0 references)
+[1750799502] [DEBUG   ] Adding virtual size padding end...
+[1750799502] [DEBUG   ] Adding object end...
+[1750799502] [DEBUG   ] Finalizing structure...
+[1750799502] [DEBUG   ] Named 3 structure items and 3 globals
+[1750799502] [DEBUG   ] Sized 4 structure items and 4 globals
+[1750799502] [DEBUG   ] Structure: object: 2, virtual padding: 2, module: 2, variable: 4, total: 10
+[1750799502] [INFO    ] Generating disassembly structure for object 3:
+[1750799502] [DEBUG   ] Adding object start...
+[1750799502] [DEBUG   ] Adding virtual size padding start...
+[1750799502] [DEBUG   ] Adding modules...
+[1750799502] [DEBUG   ] Added 289 modules
+[1750799502] [DEBUG   ] Adding hints...
+[1750799502] [DEBUG   ] Added 0 hints
+[1750799502] [DEBUG   ] Adding globals...
+[1750799503] [DEBUG   ] Added 6703 globals (0 functions, 0 branches, 6703 variables, 0 references)
+[1750799503] [DEBUG   ] Adding virtual size padding end...
+[1750799503] [DEBUG   ] Adding object end...
+[1750799503] [DEBUG   ] Finalizing structure...
+[1750799503] [DEBUG   ] Named 6124 structure items and 6124 globals
+[1750799503] [DEBUG   ] Sized 6703 structure items and 6703 globals
+[1750799503] [DEBUG   ] Structure: object: 2, module: 578, variable: 6703, virtual padding: 2, total: 7285
+[1750799503] [INFO    ] 
+[1750799503] [INFO    ] Building data maps for data objects:
+[1750799503] [DEBUG   ] Building initial data maps from object and modules...
+[1750799503] [DEBUG   ] Data map for object 2 has 1 entries
+[1750799503] [DEBUG   ] Data map for object 3 has 290 entries
+[1750799503] [DEBUG   ] Extending data maps based on size information in structure...
+[1750799503] [DEBUG   ] Data map for object 3 has 6711 entries
+[1750799503] [DEBUG   ] Extending data maps based on fixups...
+[1750799503] [DEBUG   ] Data map for object 3 has 7209 entries
+[1750799503] [DEBUG   ] Finalizing data maps based on hints...
+[1750799503] [DEBUG   ] Data map for object 3 has 7209 entries
+[1750799503] [DEBUG   ] Checking consistency of data map for object 2...
+[1750799503] [DEBUG   ] Data map of object 2 is consistent
+[1750799503] [DEBUG   ] Checking consistency of data map for object 3...
+[1750799503] [DEBUG   ] Data map of object 3 is consistent
+[1750799503] [INFO    ] 
+[1750799503] [INFO    ] Generating plain disassembly for data objects:
+[1750799503] [DEBUG   ] Generating plain disassembly for object 2...
+[1750799503] [DEBUG   ] Size of plain disassembly: 44 lines, 4911 bytes
+[1750799503] [DEBUG   ] Generating plain disassembly for object 3...
+[1750799504] [DEBUG   ] Size of plain disassembly: 128070 lines, 13149029 bytes
+[1750799504] [INFO    ] 
+[1750799504] [INFO    ] Generating formatted disassembly for all objects:
+[1750799504] [INFO    ] Generating formatted disassembly of object 1:
+[1750799504] [DEBUG   ] Gathering fixup records for current object...
+[1750799504] [DEBUG   ] Fixup records: total: 21704, current object: 21286
+[1750799504] [DEBUG   ] Mapping disassembly offsets to fixup records...
+[1750799504] [DEBUG   ] Mapped offsets: 21161, mapped records: 21286, unmapped records: 0
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4abe:     485c:	be 4a 00 00 c6       	mov    esi,0xc600004a
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4ac6:     485c:	be 4a 00 00 c6       	mov    esi,0xc600004a
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4ace:     4864:	ce                   	into
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4ad6:     4868:	d6                   	(bad)
+[1750799504] [WARNING ] Failed to match fixup target offset 0x6022:     5ff4:	22 60 00             	and    ah,BYTE PTR [eax+0x0]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x602d:     5ff7:	00 2d 60 00 00 3b    	add    BYTE PTR ds:0x3b000060,ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x603b:     5ff7:	00 2d 60 00 00 3b    	add    BYTE PTR ds:0x3b000060,ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x6049:     6000:	49                   	dec    ecx
+[1750799504] [WARNING ] Failed to match fixup target offset 0x62d2:     62a4:	d2 62 00             	shl    BYTE PTR [edx+0x0],cl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x62dd:     62a7:	00 dd                	add    ch,bl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x62eb:     62ab:	00 eb                	add    bl,ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x62f9:     62af:	00 f9                	add    cl,bh
+[1750799504] [WARNING ] Failed to match fixup target offset 0x6546:     651c:	46                   	inc    esi
+[1750799504] [WARNING ] Failed to match fixup target offset 0x6551:     6520:	51                   	push   ecx
+[1750799504] [WARNING ] Failed to match fixup target offset 0x655f:     6524:	5f                   	pop    edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0x656d:     6528:	6d                   	ins    DWORD PTR es:[edi],dx
+[1750799504] [WARNING ] Failed to match fixup target offset 0x6936:     6904:	36 69 00 00 41 69 00 	imul   eax,DWORD PTR ss:[eax],0x694100
+[1750799504] [WARNING ] Failed to match fixup target offset 0x694f:     690b:	00 4f 69             	add    BYTE PTR [edi+0x69],cl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x695d:     6910:	5d                   	pop    ebp
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfe87:     f718:	87 fe                	xchg   esi,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfe87:     f71c:	87 fe                	xchg   esi,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0xf7e5:     f720:	e5 f7                	in     eax,0xf7
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfe87:     f724:	87 fe                	xchg   esi,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfe87:     f728:	87 fe                	xchg   esi,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfe87:     f72c:	87 fe                	xchg   esi,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfb20:     f730:	20 fb                	and    bl,bh
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfb86:     f734:	86 fb                	xchg   bl,bh
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfdb7:     f738:	b7 fd                	mov    bh,0xfd
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfe87:     f73c:	87 fe                	xchg   esi,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0xfee9:     f740:	e9 fe 00 00 fc       	jmp    0xfc00f843
+[1750799504] [WARNING ] Failed to match fixup target offset 0x100fc:     f740:	e9 fe 00 00 fc       	jmp    0xfc00f843
+[1750799504] [WARNING ] No global in map for (object 1, offset 0xfc00f843):     f740:	e9 fe 00 00 fc       	jmp    0xfc00f843
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10700:    105dc:	00 07                	add    BYTE PTR [edi],al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10764:    105e8:	64 07                	fs pop es
+[1750799504] [WARNING ] Failed to match fixup target offset 0x109ef:    105f8:	ef                   	out    dx,eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10a53:    105fb:	00 53 0a             	add    BYTE PTR [ebx+0xa],dl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10c18:    10600:	18 0c 01             	sbb    BYTE PTR [ecx+eax*1],cl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10ce2:    10603:	00 e2                	add    dl,ah
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10d4a:    10607:	00 4a 0d             	add    BYTE PTR [edx+0xd],cl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x10ed8:    1060c:	d8 0e                	fmul   DWORD PTR [esi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x286be:    286a0:	be 86 02 00 cc       	mov    esi,0xcc000286
+[1750799504] [WARNING ] Failed to match fixup target offset 0x286cc:    286a0:	be 86 02 00 cc       	mov    esi,0xcc000286
+[1750799504] [WARNING ] Failed to match fixup target offset 0x286da:    286a7:	00 da                	add    dl,bl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x286e8:    286ab:	00 e8                	add    al,ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41312:    3d564:	12 13                	adc    dl,BYTE PTR [ebx]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x412ae:    3d568:	ae                   	scas   al,BYTE PTR es:[edi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x413d4:    3d56c:	d4 13                	aam    0x13
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3f3cd:    3d578:	cd f3                	int    0xf3
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3efdb:    3d57c:	db ef                	fucomi st,st(7)
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d584:	d1 15 04 00 d1 15    	rcl    DWORD PTR ds:0x15d10004,1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d584:	d1 15 04 00 d1 15    	rcl    DWORD PTR ds:0x15d10004,1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3f822:    3d58c:	22 f8                	and    bh,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fcad:    3d590:	ad                   	lods   eax,DWORD PTR ds:[esi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d594:	d1 15 04 00 d1 15    	rcl    DWORD PTR ds:0x15d10004,1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d594:	d1 15 04 00 d1 15    	rcl    DWORD PTR ds:0x15d10004,1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3f6bd:    3d59c:	bd f6 03 00 d1       	mov    ebp,0xd10003f6
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d59c:	bd f6 03 00 d1       	mov    ebp,0xd10003f6
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d5a1:	15 04 00 d1 15       	adc    eax,0x15d10004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3f956:    3d5a8:	56                   	push   esi
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fd19:    3d5ac:	19 fd                	sbb    ebp,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d5b0:	d1 15 04 00 d1 15    	rcl    DWORD PTR ds:0x15d10004,1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415d1:    3d5b0:	d1 15 04 00 d1 15    	rcl    DWORD PTR ds:0x15d10004,1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fd85:    3d5b8:	85 fd                	test   ebp,edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fdd9:    3d5bc:	d9 fd                	fscale
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fe2d:    3d5c0:	2d fe 03 00 81       	sub    eax,0x810003fe
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fe81:    3d5c0:	2d fe 03 00 81       	sub    eax,0x810003fe
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ff9a:    3d5c7:	00 9a ff 03 00 38    	add    BYTE PTR [edx+0x380003ff],bl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ff38:    3d5c7:	00 9a ff 03 00 38    	add    BYTE PTR [edx+0x380003ff],bl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fed5:    3d5cf:	00 d5                	add    ch,dl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x400c3:    3d5d3:	00 c3                	add    bl,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40060:    3d5d8:	60                   	pusha
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fffd:    3d5dc:	fd                   	std
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40228:    3d5df:	00 28                	add    BYTE PTR [eax],ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x401a7:    3d5e4:	a7                   	cmps   DWORD PTR ds:[esi],DWORD PTR es:[edi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40126:    3d5e8:	26 01 04 00          	add    DWORD PTR es:[eax+eax*1],eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x403ab:    3d5ec:	ab                   	stos   DWORD PTR es:[edi],eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4032a:    3d5f0:	2a 03                	sub    al,BYTE PTR [ebx]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x402a9:    3d5f4:	a9 02 04 00 7d       	test   eax,0x7d000402
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4157d:    3d5f4:	a9 02 04 00 7d       	test   eax,0x7d000402
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4157d:    3d5f9:	15 04 00 7d 15       	adc    eax,0x157d0004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4042c:    3d610:	2c 04                	sub    al,0x4
+[1750799504] [WARNING ] Failed to match fixup target offset 0x404a2:    3d614:	a2 04 04 00 18       	mov    ds:0x18000404,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40518:    3d614:	a2 04 04 00 18       	mov    ds:0x18000404,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4058e:    3d619:	05 04 00 8e 05       	add    eax,0x58e0004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40604:    3d620:	04 06                	add    al,0x6
+[1750799504] [WARNING ] Failed to match fixup target offset 0x406ee:    3d628:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40764:    3d62c:	64 07                	fs pop es
+[1750799504] [WARNING ] Failed to match fixup target offset 0x407da:    3d630:	da 07                	fiadd  DWORD PTR [edi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x40850:    3d634:	50                   	push   eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x408c6:    3d638:	c6                   	(bad)
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4093a:    3d63c:	3a 09                	cmp    cl,BYTE PTR [ecx]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x409b0:    3d650:	b0 09                	mov    al,0x9
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fabd:    3d654:	bd fa 03 00 b5       	mov    ebp,0xb50003fa
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3fbb5:    3d654:	bd fa 03 00 b5       	mov    ebp,0xb50003fa
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41593:    3d65c:	93                   	xchg   ebx,eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41593:    3d65d:	15 04 00 93 15       	adc    eax,0x15930004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41593:    3d664:	93                   	xchg   ebx,eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41593:    3d665:	15 04 00 93 15       	adc    eax,0x15930004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42023:    3d66c:	23 20                	and    esp,DWORD PTR [eax]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d670:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d674:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x415f7:    3d678:	f7 15 04 00 fb 24    	not    DWORD PTR ds:0x24fb0004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x424fb:    3d678:	f7 15 04 00 fb 24    	not    DWORD PTR ds:0x24fb0004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d680:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d684:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4224d:    3d688:	4d                   	dec    ebp
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d68c:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d690:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42595:    3d698:	95                   	xchg   ebp,eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d699:	25 04 00 6a 24       	and    eax,0x246a0004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4246a:    3d6a0:	6a 24                	push   0x24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42634:    3d6a4:	34 26                	xor    al,0x26
+[1750799504] [WARNING ] Failed to match fixup target offset 0x426ab:    3d6a8:	ab                   	stos   DWORD PTR es:[edi],eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6ac:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6b0:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42725:    3d6b4:	25 27 04 00 25       	and    eax,0x25000427
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42725:    3d6b4:	25 27 04 00 25       	and    eax,0x25000427
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42725:    3d6bc:	25 27 04 00 25       	and    eax,0x25000427
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42725:    3d6bc:	25 27 04 00 25       	and    eax,0x25000427
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42725:    3d6c4:	25 27 04 00 25       	and    eax,0x25000427
+[1750799504] [WARNING ] Failed to match fixup target offset 0x42725:    3d6c4:	25 27 04 00 25       	and    eax,0x25000427
+[1750799504] [WARNING ] Failed to match fixup target offset 0x43551:    3d6cc:	51                   	push   ecx
+[1750799504] [WARNING ] Failed to match fixup target offset 0x43551:    3d6cd:	35 04 00 51 35       	xor    eax,0x35510004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x43551:    3d6d4:	51                   	push   ecx
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4361e:    3d6d5:	35 04 00 1e 36       	xor    eax,0x361e0004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4361e:    3d6dc:	1e                   	push   ds
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4361e:    3d6e0:	1e                   	push   ds
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6e4:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6e8:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6ec:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6f0:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6f4:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d6f8:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d6fc:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d700:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d704:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d708:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d70c:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d710:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d714:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d718:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d71c:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d720:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d724:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x436ee:    3d728:	ee                   	out    dx,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d72c:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d730:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d734:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d738:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x3ef9d:    3d73c:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41ad7:    3d740:	d7                   	xlat   BYTE PTR ds:[ebx]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x41ca9:    3d744:	a9 1c 04 00 8d       	test   eax,0x8d00041c
+[1750799504] [WARNING ] Failed to match fixup target offset 0x43ffa:    439f4:	fa                   	cli
+[1750799504] [WARNING ] Failed to match fixup target offset 0x43f96:    439f8:	96                   	xchg   esi,eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x43f32:    439fc:	32 3f                	xor    bh,BYTE PTR [edi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44058:    43a00:	58                   	pop    eax
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4441f:    441cc:	1f                   	pop    ds
+[1750799504] [WARNING ] Failed to match fixup target offset 0x444b7:    441d0:	b7 44                	mov    bh,0x44
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44547:    441d4:	47                   	inc    edi
+[1750799504] [WARNING ] Failed to match fixup target offset 0x445b9:    441d8:	b9 45 04 00 2b       	mov    ecx,0x2b000445
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4462b:    441d8:	b9 45 04 00 2b       	mov    ecx,0x2b000445
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4469d:    441e0:	9d                   	popf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4470f:    441e4:	0f 47 04 00          	cmova  eax,DWORD PTR [eax+eax*1]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4479f:    441e8:	9f                   	lahf
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4482f:    441ec:	2f                   	das
+[1750799504] [WARNING ] Failed to match fixup target offset 0x448bf:    441f0:	bf 48 04 00 4f       	mov    edi,0x4f000448
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4494f:    441f0:	bf 48 04 00 4f       	mov    edi,0x4f000448
+[1750799504] [WARNING ] Failed to match fixup target offset 0x449dd:    441f8:	dd 49 04             	fisttp QWORD PTR [ecx+0x4]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44a6b:    441fb:	00 6b 4a             	add    BYTE PTR [ebx+0x4a],ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44af7:    44200:	f7 4a 04 00 8d 4b 04 	test   DWORD PTR [edx+0x4],0x44b8d00
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44c05:    44207:	00 05 4c 04 00 91    	add    BYTE PTR ds:0x9100044c,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44c91:    44207:	00 05 4c 04 00 91    	add    BYTE PTR ds:0x9100044c,al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44d1b:    44210:	1b 4d 04             	sbb    ecx,DWORD PTR [ebp+0x4]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44da7:    44213:	00 a7 4d 04 00 31    	add    BYTE PTR [edi+0x3100044d],ah
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44e31:    44213:	00 a7 4d 04 00 31    	add    BYTE PTR [edi+0x3100044d],ah
+[1750799504] [WARNING ] Failed to match fixup target offset 0x44ebd:    4421c:	bd 4e 04 00        	mov    ebp,0x5600044e
+[1750799504] [WARNING ] Failed to match fixup target offset 0x45c90:    45bb8:	90                   	nop
+[1750799504] [WARNING ] Failed to match fixup target offset 0x45ed0:    45bbc:	d0 5e 04             	rcr    BYTE PTR [esi+0x4],1
+[1750799504] [WARNING ] Failed to match fixup target offset 0x45f60:    45bbf:	00 60 5f             	add    BYTE PTR [eax+0x5f],ah
+[1750799504] [WARNING ] Failed to match fixup target offset 0x45fd2:    45bc4:	d2 5f 04             	rcr    BYTE PTR [edi+0x4],cl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46044:    45bc7:	00 44 60 04          	add    BYTE PTR [eax+eiz*2+0x4],al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x460b6:    45bcb:	00 b6 60 04 00 28    	add    BYTE PTR [esi+0x28000460],dh
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46128:    45bcb:	00 b6 60 04 00 28    	add    BYTE PTR [esi+0x28000460],dh
+[1750799504] [WARNING ] Failed to match fixup target offset 0x461b8:    45bd4:	b8 61 04 00 48       	mov    eax,0x48000461
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46248:    45bd4:	b8 61 04 00 48       	mov    eax,0x48000461
+[1750799504] [WARNING ] Failed to match fixup target offset 0x462d8:    45bdc:	d8 62 04             	fsub   DWORD PTR [edx+0x4]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46368:    45bdf:	00 68 63             	add    BYTE PTR [eax+0x63],ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x463f6:    45be4:	f6 63 04             	mul    BYTE PTR [ebx+0x4]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46486:    45be7:	00 86 64 04 00 12    	add    BYTE PTR [esi+0x12000464],al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46512:    45be7:	00 86 64 04 00 12    	add    BYTE PTR [esi+0x12000464],al
+[1750799504] [WARNING ] Failed to match fixup target offset 0x465a8:    45bf0:	a8 65                	test   al,0x65
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46620:    45bf4:	20 66 04             	and    BYTE PTR [esi+0x4],ah
+[1750799504] [WARNING ] Failed to match fixup target offset 0x466ac:    45bf7:	00 ac 66 04 00 36 67 	add    BYTE PTR [esi+eiz*2+0x67360004],ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46736:    45bf7:	00 ac 66 04 00 36 67 	add    BYTE PTR [esi+eiz*2+0x67360004],ch
+[1750799504] [WARNING ] Failed to match fixup target offset 0x467c2:    45c00:	c2 67 04             	ret    0x467
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4684c:    45c04:	4c                   	dec    esp
+[1750799504] [WARNING ] Failed to match fixup target offset 0x468d8:    45c05:	68 04 00 d8 68       	push   0x68d80004
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46bb9:    469e4:	b9 6b 04 00 fb       	mov    ecx,0xfb00046b
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46dfb:    469e4:	b9 6b 04 00 fb       	mov    ecx,0xfb00046b
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46e8b:    469ec:	8b 6e 04             	mov    ebp,DWORD PTR [esi+0x4]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46efd:    469ef:	00 fd                	add    ch,bh
+[1750799504] [WARNING ] Failed to match fixup target offset 0x46f6f:    469f4:	6f                   	outs   dx,DWORD PTR ds:[esi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47053:    469fc:	53                   	push   ebx
+[1750799504] [WARNING ] Failed to match fixup target offset 0x470e3:    469ff:	00 e3                	add    bl,ah
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47173:    46a03:	00 73 71             	add    BYTE PTR [ebx+0x71],dh
+[1750799504] [WARNING ] Misplaced item 'change_weapon branch 82'/'change_weapon_branch_82' at offset 0x46a08
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47203:    46a08:	03 72 04             	add    esi,DWORD PTR [edx+0x4]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47293:    46a0b:	00 93 72 04 00 21    	add    BYTE PTR [ebx+0x21000472],dl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47321:    46a0b:	00 93 72 04 00 21    	add    BYTE PTR [ebx+0x21000472],dl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x473b1:    46a13:	00 b1 73 04 00 3d    	add    BYTE PTR [ecx+0x3d000473],dh
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4743d:    46a13:	00 b1 73 04 00 3d    	add    BYTE PTR [ecx+0x3d000473],dh
+[1750799504] [WARNING ] Misplaced item 'change_weapon branch 83'/'change_weapon_branch_83' at offset 0x46a19
+[1750799504] [WARNING ] Failed to match fixup target offset 0x474cb:    46a1b:	00 cb                	add    bl,cl
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47543:    46a1f:	00 43 75             	add    BYTE PTR [ebx+0x75],al
+[1750799504] [WARNING ] Misplaced item 'change_weapon branch 85'/'change_weapon_branch_85' at offset 0x46a24
+[1750799504] [WARNING ] Failed to match fixup target offset 0x475cf:    46a24:	cf                   	iret
+[1750799504] [WARNING ] Failed to match fixup target offset 0x47659:    46a27:	00 59 76             	add    BYTE PTR [ecx+0x76],bl
+[1750799504] [WARNING ] Misplaced item 'change_weapon branch 86'/'change_weapon_branch_86' at offset 0x46a2c
+[1750799504] [WARNING ] Failed to match fixup target offset 0x476e5:    46a2c:	e5 76                	in     eax,0x76
+[1750799504] [WARNING ] Failed to match fixup target offset 0x4776f:    46a30:	6f                   	outs   dx,DWORD PTR ds:[esi]
+[1750799504] [WARNING ] Failed to match fixup target offset 0x477fb:    46a33:	00 fb                	add    bl,bh
+[1750799504] [WARNING ] Misplaced item 'change_weapon branch 88'/'change_weapon_branch_88' at offset 0x46a3d
+[1750799505] [WARNING ] Failed to match fixup target offset 0x50f59:    50e00:	59                   	pop    ecx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x50f71:    50e03:	00 71 0f             	add    BYTE PTR [ecx+0xf],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51306:    50e0b:	00 06                	add    BYTE PTR [esi],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x512dc:    50e13:	00 dc                	add    ah,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51359:    50e1b:	00 59 13             	add    BYTE PTR [ecx+0x13],bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51779:    50e23:	00 79 17             	add    BYTE PTR [ecx+0x17],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51806:    50e2b:	00 06                	add    BYTE PTR [esi],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51b56:    50e33:	00 56 1b             	add    BYTE PTR [esi+0x1b],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51c09:    50e3b:	00 09                	add    BYTE PTR [ecx],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x52c0b:    50e3f:	00 0b                	add    BYTE PTR [ebx],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51f20:    50e43:	00 20                	add    BYTE PTR [eax],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x520a6:    50e4b:	00 a6 20 05 00 c5    	add    BYTE PTR [esi-0x3afffae0],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x520c5:    50e4b:	00 a6 20 05 00 c5    	add    BYTE PTR [esi-0x3afffae0],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x522e2:    50e57:	00 e2                	add    dl,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5258b:    50e5f:	00 8b 25 05 00 6e    	add    BYTE PTR [ebx+0x6e000525],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5276e:    50e5f:	00 8b 25 05 00 6e    	add    BYTE PTR [ebx+0x6e000525],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x528b6:    50e6b:	00 b6 28 05 00 8f    	add    BYTE PTR [esi-0x70fffad8],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5178f:    50e6b:	00 b6 28 05 00 8f    	add    BYTE PTR [esi-0x70fffad8],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51957:    50e77:	00 57 19             	add    BYTE PTR [edi+0x19],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51ab6:    50e7f:	00 b6 1a 05 00 37    	add    BYTE PTR [esi+0x3700051a],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51b37:    50e7f:	00 b6 1a 05 00 37    	add    BYTE PTR [esi+0x3700051a],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5115e:    50e8b:	00 5e 11             	add    BYTE PTR [esi+0x11],bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51b15:    50e93:	00 15 1b 05 00 26    	add    BYTE PTR ds:0x2600051b,dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51b26:    50e93:	00 15 1b 05 00 26    	add    BYTE PTR ds:0x2600051b,dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51bdf:    50e9f:	00 df                	add    bh,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x52bfc:    50ea7:	00 fc                	add    ah,bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5101d:    50eaf:	00 1d 10 05 00 4e    	add    BYTE PTR ds:0x4e000510,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5104e:    50eaf:	00 1d 10 05 00 4e    	add    BYTE PTR ds:0x4e000510,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x510b0:    50ebb:	00 b0 10 05 00 e1    	add    BYTE PTR [eax-0x1efffaf0],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x529e1:    50ebb:	00 b0 10 05 00 e1    	add    BYTE PTR [eax-0x1efffaf0],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x52adb:    50ec7:	00 db                	add    bl,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x51371:    50ecf:	00 71 13             	add    BYTE PTR [ecx+0x13],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5548e:    548c8:	8e 54 05 00          	mov    ss,WORD PTR [ebp+eax*1+0x0]
+[1750799505] [WARNING ] Failed to match fixup target offset 0x55480:    548cc:	80 54 05 00 72       	adc    BYTE PTR [ebp+eax*1+0x0],0x72
+[1750799505] [WARNING ] Failed to match fixup target offset 0x55472:    548cc:	80 54 05 00 72       	adc    BYTE PTR [ebp+eax*1+0x0],0x72
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5548e:    548d7:	00 8e 54 05 00 a8    	add    BYTE PTR [esi-0x57fffaac],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x554a8:    548d7:	00 8e 54 05 00 a8    	add    BYTE PTR [esi-0x57fffaac],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x55480:    548e3:	00 80 54 05 00 a8    	add    BYTE PTR [eax-0x57fffaac],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x554a8:    548e3:	00 80 54 05 00 a8    	add    BYTE PTR [eax-0x57fffaac],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x554a8:    548ef:	00 a8 54 05 00 9c    	add    BYTE PTR [eax-0x63fffaac],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5549c:    548ef:	00 a8 54 05 00 9c    	add    BYTE PTR [eax-0x63fffaac],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x554a8:    548fb:	00 a8 54 05 00 72    	add    BYTE PTR [eax+0x72000554],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x55472:    548fb:	00 a8 54 05 00 72    	add    BYTE PTR [eax+0x72000554],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x59121:    57368:	21 91 05 00 ac 91    	and    DWORD PTR [ecx-0x6e53fffb],edx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x591ac:    57368:	21 91 05 00 ac 91    	and    DWORD PTR [ecx-0x6e53fffb],edx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x59c8e:    57373:	00 8e 9c 05 00 2f    	add    BYTE PTR [esi+0x2f00059c],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5812f:    57373:	00 8e 9c 05 00 2f    	add    BYTE PTR [esi+0x2f00059c],cl
+[1750799505] [WARNING ] Misplaced item '.fn_init_mod_88 reference 2'/'.fn_init_mod_88_reference_2' at offset 0x57379
+[1750799505] [WARNING ] Failed to match fixup target offset 0x584fb:    57383:	00 fb                	add    bl,bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5a2fc:    5738b:	00 fc                	add    ah,bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5b014:    5a3dc:	14 b0                	adc    al,0xb0
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5b0e8:    5a3e3:	00 e8                	add    al,ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5bbaa:    5a3e7:	00 aa bb 05 00 8d    	add    BYTE PTR [edx-0x72fffa45],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5c026:    5bf54:	26 c0 05 00 6d c0 05 00 	rol    BYTE PTR es:0x5c06d00,0x0
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5c12d:    5bf5c:	2d c1 05 00 c8       	sub    eax,0xc80005c1
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5c0c8:    5bf5c:	2d c1 05 00 c8       	sub    eax,0xc80005c1
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5e99f:    5dc4c:	9f                   	lahf
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5eccf:    5dc57:	00 cf                	add    bh,cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5ee3b:    5dc5f:	00 3b                	add    BYTE PTR [ebx],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x5f020:    5dc67:	00 20                	add    BYTE PTR [eax],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x63e55:    63524:	55                   	push   ebp
+[1750799505] [WARNING ] Failed to match fixup target offset 0x63e2e:    63527:	00 2e                	add    BYTE PTR [esi],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x63dc4:    6352b:	00 c4                	add    ah,al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x63e7f:    6352d:	3d 06 00 7f 3e       	cmp    eax,0x3e7f0006
+[1750799505] [WARNING ] Failed to match fixup target offset 0x64411:    64154:	11 44 06 00          	adc    DWORD PTR [esi+eax*1+0x0],eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x64480:    64158:	80 44 06 00 b2       	add    BYTE PTR [esi+eax*1+0x0],0xb2
+[1750799505] [WARNING ] Failed to match fixup target offset 0x645b2:    64158:	80 44 06 00 b2       	add    BYTE PTR [esi+eax*1+0x0],0xb2
+[1750799505] [WARNING ] Failed to match fixup target offset 0x64740:    6415f:	00 40 47             	add    BYTE PTR [eax+0x47],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x647b4:    64163:	00 b4 47 06 00 ab 48 	add    BYTE PTR [edi+eax*2+0x48ab0006],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x648ab:    64163:	00 b4 47 06 00 ab 48 	add    BYTE PTR [edi+eax*2+0x48ab0006],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x649a3:    6416b:	00 a3 49 06 00 8e    	add    BYTE PTR [ebx-0x71fff9b7],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x64a8e:    6416b:	00 a3 49 06 00 8e    	add    BYTE PTR [ebx-0x71fff9b7],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x68a65:    688fc:	65 8a 06             	mov    al,BYTE PTR gs:[esi]
+[1750799505] [WARNING ] Failed to match fixup target offset 0x68ae2:    688ff:	00 e2                	add    dl,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x68c2e:    68903:	00 2e                	add    BYTE PTR [esi],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x68de4:    68907:	00 e4                	add    ah,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x68e73:    6890b:	00 73 8e             	add    BYTE PTR [ebx-0x72],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x68f87:    6890f:	00 87 8f 06 00 98    	add    BYTE PTR [edi-0x67fff971],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x69098:    6890f:	00 87 8f 06 00 98    	add    BYTE PTR [edi-0x67fff971],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x6918e:    68917:	00 8e 91 06 00 8d    	add    BYTE PTR [esi-0x72fff96f],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x3:    71158:	03 00                	add    eax,DWORD PTR [eax]
+[1750799505] [WARNING ] Misplaced item '_cstart_ branch 1'/'_cstart__branch_1' at offset 0x71161
+[1750799505] [WARNING ] Misplaced item '_cstart_ branch 2'/'_cstart__branch_2' at offset 0x7117c
+[1750799505] [WARNING ] Misplaced item '_cstart_ branch 3'/'_cstart__branch_3' at offset 0x71181
+[1750799505] [WARNING ] Misplaced item '_cstart_ branch 4'/'_cstart__branch_4' at offset 0x7118c
+[1750799505] [WARNING ] Misplaced item '_cstart_ branch 8'/'_cstart__branch_8' at offset 0x711cc
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76b5e:    76aef:	5e                   	pop    esi
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76b49:    76af3:	49                   	dec    ecx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76af7:	b5 6b                	mov    ch,0x6b
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76b69:    76afa:	00 69 6b             	add    BYTE PTR [ecx+0x6b],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76afe:	00 b5 6b 07 00 b5    	add    BYTE PTR [ebp-0x4afff895],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76afe:	00 b5 6b 07 00 b5    	add    BYTE PTR [ebp-0x4afff895],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76b92:    76b07:	92                   	xchg   edx,eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76b0b:	b5 6b                	mov    ch,0x6b
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76b0e:	00 b5 6b 07 00 b5    	add    BYTE PTR [ebp-0x4afff895],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76b0e:	00 b5 6b 07 00 b5    	add    BYTE PTR [ebp-0x4afff895],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76b17:	b5 6b                	mov    ch,0x6b
+[1750799505] [WARNING ] Failed to match fixup target offset 0x76bb5:    76b1a:	00 b5 6b 07 00     	add    BYTE PTR [ebp+0x5300076b],dh
+[1750799505] [WARNING ] Misplaced item 'rewind_ branch 1'/'rewind__branch_1' at offset 0x76ca0
+[1750799505] [WARNING ] [FIXME] Skipping fixup record with missing 'target offset'
+[1750799505] [WARNING ] [FIXME] Skipping fixup record with missing 'target offset'
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7982e:    797c0:	2e 98                	cs cwde
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79829:    797c3:	00 29                	add    BYTE PTR [ecx],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79891:    797c7:	00 91 98 07 00 91    	add    BYTE PTR [ecx-0x6efff868],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79891:    797c7:	00 91 98 07 00 91    	add    BYTE PTR [ecx-0x6efff868],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79891:    797cf:	00 91 98 07 00 29    	add    BYTE PTR [ecx+0x29000798],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79829:    797cf:	00 91 98 07 00 29    	add    BYTE PTR [ecx+0x29000798],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7984f:    797d7:	00 4f 98             	add    BYTE PTR [edi-0x68],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79864:    797db:	00 64 98 07          	add    BYTE PTR [eax+ebx*4+0x7],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7986b:    797df:	00 6b 98             	add    BYTE PTR [ebx-0x68],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79878:    797e3:	00 78 98             	add    BYTE PTR [eax-0x68],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x79888:    797e7:	00 88 98 07 00 d6    	add    BYTE PTR [eax-0x29fff868],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x798d6:    797e7:	00 88 98 07 00 d6    	add    BYTE PTR [eax-0x29fff868],cl
+[1750799505] [WARNING ] Misplaced item '_toupper_ branch 2'/'_toupper__branch_2' at offset 0x7bd31
+[1750799505] [WARNING ] Misplaced item '_toupper_ branch 3'/'_toupper__branch_3' at offset 0x7bd36
+[1750799505] [WARNING ] Misplaced item '__InitFiles_ branch 2'/'__InitFiles__branch_2' at offset 0x7bd40
+[1750799505] [WARNING ] Misplaced item 'emu387 reference 6'/'emu387_reference_6' at offset 0x7bfdb
+[1750799505] [WARNING ] Misplaced item 'emu387 reference 7'/'emu387_reference_7' at offset 0x7c027
+[1750799505] [WARNING ] Misplaced item 'emu387 reference 8'/'emu387_reference_8' at offset 0x7c029
+[1750799505] [WARNING ] Misplaced item 'emu387 reference 9'/'emu387_reference_9' at offset 0x7c02d
+[1750799505] [WARNING ] Misplaced item 'emu387 reference 10'/'emu387_reference_10' at offset 0x7c02f
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c636:    7c084:	36 c6 07 00          	mov    BYTE PTR ss:[edi],0x0
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c63c:    7c088:	3c c6                	cmp    al,0xc6
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c642:    7c08b:	00 42 c6             	add    BYTE PTR [edx-0x3a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c648:    7c08f:	00 48 c6             	add    BYTE PTR [eax-0x3a],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6f8:    7c093:	00 f8                	add    al,bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c656:    7c098:	56                   	push   esi
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c65c:    7c09c:	5c                   	pop    esp
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c662:    7c0a0:	62 c6 07 00 68       	(bad)
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c668:    7c0a0:	62 c6 07 00 68       	(bad)
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c678:    7c0ab:	00 78 c6             	add    BYTE PTR [eax-0x3a],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c680:    7c0af:	00 80 c6 07 00 f8    	add    BYTE PTR [eax-0x7fff83a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6f8:    7c0af:	00 80 c6 07 00 f8    	add    BYTE PTR [eax-0x7fff83a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c692:    7c0b8:	92                   	xchg   edx,eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c69c:    7c0bc:	9c                   	pushf
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6a4:    7c0c0:	a4                   	movs   BYTE PTR es:[edi],BYTE PTR ds:[esi]
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6ac:    7c0c4:	ac                   	lods   al,BYTE PTR ds:[esi]
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6b5:    7c0c8:	b5 c6                	mov    ch,0xc6
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6be:    7c0cb:	00 be c6 07 00 c7    	add    BYTE PTR [esi-0x38fff83a],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6c7:    7c0cb:	00 be c6 07 00 c7    	add    BYTE PTR [esi-0x38fff83a],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6f8:    7c0d4:	f8                   	clc
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6db:    7c0d8:	db c6                	fcmovnb st,st(6)
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6e6:    7c0db:	00 e6                	add    dh,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6ef:    7c0e0:	ef                   	out    dx,eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c636:    7c0e4:	36 c6 07 00          	mov    BYTE PTR ss:[edi],0x0
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c63c:    7c0e8:	3c c6                	cmp    al,0xc6
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c642:    7c0eb:	00 42 c6             	add    BYTE PTR [edx-0x3a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c648:    7c0ef:	00 48 c6             	add    BYTE PTR [eax-0x3a],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c64e:    7c0f3:	00 4e c6             	add    BYTE PTR [esi-0x3a],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c656:    7c0f7:	00 56 c6             	add    BYTE PTR [esi-0x3a],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c65c:    7c0fb:	00 5c c6 07          	add    BYTE PTR [esi+eax*8+0x7],bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c662:    7c0ff:	00 62 c6             	add    BYTE PTR [edx-0x3a],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c668:    7c103:	00 68 c6             	add    BYTE PTR [eax-0x3a],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c670:    7c107:	00 70 c6             	add    BYTE PTR [eax-0x3a],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c678:    7c10b:	00 78 c6             	add    BYTE PTR [eax-0x3a],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c680:    7c10f:	00 80 c6 07 00 88    	add    BYTE PTR [eax-0x77fff83a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c688:    7c10f:	00 80 c6 07 00 88    	add    BYTE PTR [eax-0x77fff83a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c692:    7c118:	92                   	xchg   edx,eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c69c:    7c11c:	9c                   	pushf
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6a4:    7c120:	a4                   	movs   BYTE PTR es:[edi],BYTE PTR ds:[esi]
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6ac:    7c124:	ac                   	lods   al,BYTE PTR ds:[esi]
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6b5:    7c128:	b5 c6                	mov    ch,0xc6
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6be:    7c12b:	00 be c6 07 00 c7    	add    BYTE PTR [esi-0x38fff83a],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6c7:    7c12b:	00 be c6 07 00 c7    	add    BYTE PTR [esi-0x38fff83a],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6d0:    7c134:	d0 c6                	rol    dh,1
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6db:    7c137:	00 db                	add    bl,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6e6:    7c13c:	e6 c6                	out    0xc6,al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c6ef:    7c13f:	00 ef                	add    bh,ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c735:    7c144:	35 c7 07 00 27       	xor    eax,0x270007c7
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c827:    7c144:	35 c7 07 00 27       	xor    eax,0x270007c7
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c903:    7c149:	c8 07 00 03          	enter  0x7,0x3
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c9f5:    7c14f:	00 f5                	add    ch,dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ca8f:    7c153:	00 8f ca 07 00 e8    	add    BYTE PTR [edi-0x17fff836],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cbe8:    7c153:	00 8f ca 07 00 e8    	add    BYTE PTR [edi-0x17fff836],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ccee:    7c15b:	00 ee                	add    dh,ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cdf0:    7c15f:	00 f0                	add    al,dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c754:    7c163:	00 54 c7 07          	add    BYTE PTR [edi+eax*8+0x7],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c167:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c16f:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c177:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c17f:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c861:    7c187:	00 61 c8             	add    BYTE PTR [ecx-0x38],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c941:    7c18b:	00 41 c9             	add    BYTE PTR [ecx-0x37],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ca2f:    7c18f:	00 2f                	add    BYTE PTR [edi],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cad5:    7c194:	d5 ca                	aad    0xca
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cc26:    7c197:	00 26                	add    BYTE PTR [esi],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cd30:    7c19b:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ce2c:    7c19f:	00 2c ce             	add    BYTE PTR [esi+ecx*8],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c78f:    7c1a3:	00 8f c7 07 00 72    	add    BYTE PTR [edi+0x720007c7],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c872:    7c1a3:	00 8f c7 07 00 72    	add    BYTE PTR [edi+0x720007c7],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c95d:    7c1a9:	c8 07 00 5d          	enter  0x7,0x5d
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ca6b:    7c1af:	00 6b ca             	add    BYTE PTR [ebx-0x36],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7caf5:    7c1b3:	00 f5                	add    ch,dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cc59:    7c1b8:	59                   	pop    ecx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cd4e:    7c1bb:	00 4e cd             	add    BYTE PTR [esi-0x33],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ce74:    7c1bf:	00 74 ce 07          	add    BYTE PTR [esi+ecx*8+0x7],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c7ab:    7c1c3:	00 ab c7 07 00 83    	add    BYTE PTR [ebx-0x7cfff839],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c883:    7c1c3:	00 ab c7 07 00 83    	add    BYTE PTR [ebx-0x7cfff839],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c979:    7c1c9:	c8 07 00 79          	enter  0x7,0x79
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c1cf:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cc6e:    7c1d7:	00 6e cc             	add    BYTE PTR [esi-0x34],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cd6c:    7c1db:	00 6c cd 07          	add    BYTE PTR [ebp+ecx*8+0x7],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cea4:    7c1df:	00 a4 ce 07 00 ca c7 	add    BYTE PTR [esi+ecx*8-0x3835fff9],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c7ca:    7c1df:	00 a4 ce 07 00 ca c7 	add    BYTE PTR [esi+ecx*8-0x3835fff9],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c8a1:    7c1e7:	00 a1 c8 07 00 98    	add    BYTE PTR [ecx-0x67fff838],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c998:    7c1e7:	00 a1 c8 07 00 98    	add    BYTE PTR [ecx-0x67fff838],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cba1:    7c1ef:	00 a1 cb 07 00 38    	add    BYTE PTR [ecx+0x380007cb],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cb38:    7c1ef:	00 a1 cb 07 00 38    	add    BYTE PTR [ecx+0x380007cb],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c1f7:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cea9:    7c1ff:	00 a9 ce 07 00 e9    	add    BYTE PTR [ecx-0x16fff832],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c7e9:    7c1ff:	00 a9 ce 07 00 e9    	add    BYTE PTR [ecx-0x16fff832],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c9b7:    7c20b:	00 b7 c9 07 00 30    	add    BYTE PTR [edi+0x300007c9],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c730:    7c20b:	00 b7 c9 07 00 30    	add    BYTE PTR [edi+0x300007c9],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7ccb5:    7c217:	00 b5 cc 07 00 ae    	add    BYTE PTR [ebp-0x51fff834],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cdae:    7c217:	00 b5 cc 07 00 ae    	add    BYTE PTR [ebp-0x51fff834],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cee3:    7c21f:	00 e3                	add    bl,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c808:    7c223:	00 08                	add    BYTE PTR [eax],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c8f5:    7c225:	c8 07 00 f5          	enter  0x7,0xf5
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7c9d6:    7c229:	c8 07 00 d6          	enter  0x7,0xd6
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cc3b:    7c22f:	00 3b                	add    BYTE PTR [ebx],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cb7e:    7c233:	00 7e cb             	add    BYTE PTR [esi-0x35],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cce0:    7c237:	00 e0                	add    al,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cdcf:    7c23b:	00 cf                	add    bh,cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cee8:    7c23f:	00 e8                	add    al,ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf3e:    7c243:	00 3e                	add    BYTE PTR [esi],bh
+[1750799505] [WARNING ] Misplaced item 'emu387 reference 16'/'emu387_reference_16' at offset 0x7c245
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cfe0:    7c247:	00 e0                	add    al,ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c24b:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c24f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d5f1:    7c253:	00 f1                	add    cl,dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d66f:    7c257:	00 6f d6             	add    BYTE PTR [edi-0x2a],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d70a:    7c25b:	00 0a                	add    BYTE PTR [edx],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d66f:    7c25f:	00 6f d6             	add    BYTE PTR [edi-0x2a],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf53:    7c263:	00 53 cf             	add    BYTE PTR [ebx-0x31],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d028:    7c267:	00 28                	add    BYTE PTR [eax],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c26b:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c26f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d606:    7c273:	00 06                	add    BYTE PTR [esi],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d028:    7c277:	00 28                	add    BYTE PTR [eax],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d755:    7c27b:	00 55 d7             	add    BYTE PTR [ebp-0x29],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d028:    7c27f:	00 28                	add    BYTE PTR [eax],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf68:    7c283:	00 68 cf             	add    BYTE PTR [eax-0x31],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf11:    7c287:	00 11                	add    BYTE PTR [ecx],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c28b:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c28f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf68:    7c293:	00 68 cf             	add    BYTE PTR [eax-0x31],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d68e:    7c297:	00 8e d6 07 00 0c    	add    BYTE PTR [esi+0xc0007d6],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c297:	00 8e d6 07 00 0c    	add    BYTE PTR [esi+0xc0007d6],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d68e:    7c29f:	00 8e d6 07 00 7a    	add    BYTE PTR [esi+0x7a0007d6],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf7a:    7c29f:	00 8e d6 07 00 7a    	add    BYTE PTR [esi+0x7a0007d6],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d6de:    7c2a7:	00 de                	add    dh,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c2ab:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c2af:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf7a:    7c2b3:	00 7a cf             	add    BYTE PTR [edx-0x31],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d6de:    7c2b7:	00 de                	add    dh,bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d7a0:    7c2bb:	00 a0 d7 07 00 de    	add    BYTE PTR [eax-0x21fff829],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d6de:    7c2bb:	00 a0 d7 07 00 de    	add    BYTE PTR [eax-0x21fff829],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf8c:    7c2c3:	00 8c cf 07 00 50 d0 	add    BYTE PTR [edi+ecx*8-0x2faffff9],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d050:    7c2c3:	00 8c cf 07 00 50 d0 	add    BYTE PTR [edi+ecx*8-0x2faffff9],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c2cb:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d597:    7c2cf:	00 97 d5 07 00 1b    	add    BYTE PTR [edi+0x1b0007d5],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d61b:    7c2cf:	00 97 d5 07 00 1b    	add    BYTE PTR [edi+0x1b0007d5],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d6ba:    7c2d7:	00 ba d6 07 00 29    	add    BYTE PTR [edx+0x290007d6],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d829:    7c2d7:	00 ba d6 07 00 29    	add    BYTE PTR [edx+0x290007d6],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d955:    7c2df:	00 55 d9             	add    BYTE PTR [ebp-0x27],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cfa1:    7c2e3:	00 a1 cf 07 00 d1    	add    BYTE PTR [ecx-0x2efff831],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d0d1:    7c2e3:	00 a1 cf 07 00 d1    	add    BYTE PTR [ecx-0x2efff831],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d50e:    7c2eb:	00 0e                	add    BYTE PTR [esi],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c2ef:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d630:    7c2f3:	00 30                	add    BYTE PTR [eax],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d6cc:    7c2f7:	00 cc                	add    ah,cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d874:    7c2fb:	00 74 d8 07          	add    BYTE PTR [eax+ebx*8+0x7],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c2ff:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cfb6:    7c303:	00 b6 cf 07 00 ec    	add    BYTE PTR [esi-0x13fff831],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d2ec:    7c303:	00 b6 cf 07 00 ec    	add    BYTE PTR [esi-0x13fff831],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c30b:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c30f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d645:    7c313:	00 45 d6             	add    BYTE PTR [ebp-0x2a],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c317:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d8bf:    7c31b:	00 bf d8 07 00 0c    	add    BYTE PTR [edi+0xc0007d8],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c31b:	00 bf d8 07 00 0c    	add    BYTE PTR [edi+0xc0007d8],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cfcb:    7c323:	00 cb                	add    bl,cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d3f6:    7c327:	00 f6                	add    dh,dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c32b:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c32f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d65a:    7c333:	00 5a d6             	add    BYTE PTR [edx-0x2a],bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c337:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d90a:    7c33b:	00 0a                	add    BYTE PTR [edx],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7c33f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf39:    7cf19:	39 cf                	cmp    edi,ecx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf1c:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf20:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf24:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf28:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf2c:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf30:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7cf34:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 90'/'__int7_reference_90' at offset 0x7cf3a
+[1750799505] [WARNING ] Misplaced item '__int7 reference 91'/'__int7_reference_91' at offset 0x7cf41
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d085:    7d05b:	00 85 d0 07 00 0c    	add    BYTE PTR [ebp+0xc0007d0],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d05b:	00 85 d0 07 00 0c    	add    BYTE PTR [ebp+0xc0007d0],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d063:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d092:    7d067:	00 92 d0 07 00 c3    	add    BYTE PTR [edx-0x3cfff830],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d0c3:    7d067:	00 92 d0 07 00 c3    	add    BYTE PTR [edx-0x3cfff830],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d06f:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d073:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 103'/'__int7_reference_103' at offset 0x7d07d
+[1750799505] [WARNING ] Misplaced item '__int7 reference 104'/'__int7_reference_104' at offset 0x7d08a
+[1750799505] [WARNING ] Misplaced item '__int7 branch 31'/'__int7_branch_31' at offset 0x7d08a
+[1750799505] [WARNING ] Misplaced item '__int7 reference 105'/'__int7_reference_105' at offset 0x7d093
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d0f9:    7d0d9:	f9                   	stc
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d13c:    7d0dc:	00 3c d1             	add    BYTE PTR [ecx+edx*8],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d181:    7d0e0:	00 81 d1 07 00 c6    	add    BYTE PTR [ecx-0x39fff82f],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d1c6:    7d0e0:	00 81 d1 07 00 c6    	add    BYTE PTR [ecx-0x39fff82f],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d20b:    7d0e8:	00 0b                	add    BYTE PTR [ebx],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d250:    7d0ec:	00 50 d2             	add    BYTE PTR [eax-0x2e],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d295:    7d0f0:	00 95 d2 07 00 0c    	add    BYTE PTR [ebp+0xc0007d2],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d0f0:	00 95 d2 07 00 0c    	add    BYTE PTR [ebp+0xc0007d2],dl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 109'/'__int7_reference_109' at offset 0x7d0fa
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d314:    7d2f4:	14 d3                	adc    al,0xd3
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d321:    7d2f7:	00 21                	add    BYTE PTR [ecx],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d368:    7d2fb:	00 68 d3             	add    BYTE PTR [eax-0x2d],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d97d:    7d2ff:	00 7d d9             	add    BYTE PTR [ebp-0x27],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d9c6:    7d303:	00 c6                	add    dh,al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7da2b:    7d307:	00 2b                	add    BYTE PTR [ebx],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d3b4:    7d30b:	00 b4 d3 07 00 d5 d3 	add    BYTE PTR [ebx+edx*8-0x2c2afff9],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d3d5:    7d30b:	00 b4 d3 07 00 d5 d3 	add    BYTE PTR [ebx+edx*8-0x2c2afff9],dh
+[1750799505] [WARNING ] Misplaced item '__int7 reference 118'/'__int7_reference_118' at offset 0x7d319
+[1750799505] [WARNING ] Misplaced item '__int7 branch 32'/'__int7_branch_32' at offset 0x7d33a
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d41e:    7d3fe:	1e                   	push   ds
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d448:    7d401:	00 48 d4             	add    BYTE PTR [eax-0x2c],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d48f:    7d405:	00 8f d4 07 00 9c    	add    BYTE PTR [edi-0x63fff82c],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d49c:    7d405:	00 8f d4 07 00 9c    	add    BYTE PTR [edi-0x63fff82c],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7da55:    7d40d:	00 55 da             	add    BYTE PTR [ebp-0x26],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7da6d:    7d411:	00 6d da             	add    BYTE PTR [ebp-0x26],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d4f4:    7d415:	00 f4                	add    ah,dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d501:    7d419:	00 01                	add    BYTE PTR [ecx],al
+[1750799505] [WARNING ] Misplaced item '__int7 reference 125'/'__int7_reference_125' at offset 0x7d423
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d516:	0c cf                	or     al,0xcf
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d536:    7d519:	00 36                	add    BYTE PTR [esi],dh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d51d:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d521:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d525:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d529:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d52d:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d531:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 133'/'__int7_reference_133' at offset 0x7d53b
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d59f:	0c cf                	or     al,0xcf
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d5a2:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d5bf:    7d5a6:	00 bf d5 07 00 cb    	add    BYTE PTR [edi-0x34fff82b],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d5cb:    7d5a6:	00 bf d5 07 00 cb    	add    BYTE PTR [edi-0x34fff82b],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d5ae:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d5b2:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d5b6:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d5ba:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 136'/'__int7_reference_136' at offset 0x7d5c0
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7a8:	0c cf                	or     al,0xcf
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7d7c8:    7d7ab:	00 c8                	add    al,cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7af:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7b3:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7b7:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7bb:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7bf:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d7c3:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 153'/'__int7_reference_153' at offset 0x7d7cd
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7dade:    7d95d:	de da                	(bad)
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d960:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d964:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d968:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d96c:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d970:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d974:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7cf0c:    7d978:	00 0c cf             	add    BYTE PTR [edi+ecx*8],cl
+[1750799505] [WARNING ] Misplaced item '__int7 reference 160'/'__int7_reference_160' at offset 0x7d982
+[1750799505] [WARNING ] Misplaced item '__int7 branch 157'/'__int7_branch_157' at offset 0x7e370
+[1750799505] [WARNING ] Misplaced item '__int7 branch 161'/'__int7_branch_161' at offset 0x7e3ed
+[1750799505] [WARNING ] Misplaced item '__int7 reference 169'/'__int7_reference_169' at offset 0x7e93c
+[1750799505] [WARNING ] Misplaced item '__int7 branch 226'/'__int7_branch_226' at offset 0x7eb55
+[1750799505] [WARNING ] Misplaced item '__int7 branch 228'/'__int7_branch_228' at offset 0x7eb98
+[1750799505] [WARNING ] Misplaced item '__int7 branch 229'/'__int7_branch_229' at offset 0x7ebce
+[1750799505] [WARNING ] Misplaced item '__int7 reference 171'/'__int7_reference_171' at offset 0x7ebea
+[1750799505] [WARNING ] Misplaced item '__int7 branch 230'/'__int7_branch_230' at offset 0x7ec04
+[1750799505] [WARNING ] Misplaced item '__int7 reference 172'/'__int7_reference_172' at offset 0x7ec44
+[1750799505] [WARNING ] Misplaced item '__int7 branch 231'/'__int7_branch_231' at offset 0x7ec46
+[1750799505] [WARNING ] Misplaced item '__int7 branch 232'/'__int7_branch_232' at offset 0x7ec56
+[1750799505] [WARNING ] Misplaced item '__int7 branch 251'/'__int7_branch_251' at offset 0x7ee43
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f98f:    7f890:	8f                   	(bad)
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f963:    7f893:	00 63 f9             	add    BYTE PTR [ebx-0x7],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f904:    7f897:	00 04 f9             	add    BYTE PTR [ecx+edi*8],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f98f:    7f89b:	00 8f f9 07 00 8f    	add    BYTE PTR [edi-0x70fff807],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f98f:    7f89b:	00 8f f9 07 00 8f    	add    BYTE PTR [edi-0x70fff807],cl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f904:    7f8a3:	00 04 f9             	add    BYTE PTR [ecx+edi*8],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f97f:    7f8a7:	00 7f f9             	add    BYTE PTR [edi-0x7],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f97f:    7f8ab:	00 7f f9             	add    BYTE PTR [edi-0x7],bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f954:    7f8af:	00 54 f9 07          	add    BYTE PTR [ecx+edi*8+0x7],dl
+[1750799505] [WARNING ] Misplaced item 'dispatchableCatch reference 2'/'dispatchableCatch_reference_2' at offset 0x7f8b3
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f910:    7f8b3:	00 10                	add    BYTE PTR [eax],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f996:    7f8b7:	00 96 f9 07 00 3c    	add    BYTE PTR [esi+0x3c0007f9],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f93c:    7f8b7:	00 96 f9 07 00 3c    	add    BYTE PTR [esi+0x3c0007f9],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f95d:    7f8bf:	00 5d f9             	add    BYTE PTR [ebp-0x7],bl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f9af:    7f8c3:	00 af f9 07 00 27    	add    BYTE PTR [edi+0x270007f9],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f927:    7f8c3:	00 af f9 07 00 27    	add    BYTE PTR [edi+0x270007f9],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7f927:    7f8cb:	00 27                	add    BYTE PTR [edi],ah
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fb5b:    7fb1c:	5b                   	pop    ebx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fbaf:    7fb1f:	00 af fb 07 00 af    	add    BYTE PTR [edi-0x50fff805],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fbaf:    7fb1f:	00 af fb 07 00 af    	add    BYTE PTR [edi-0x50fff805],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fb69:    7fb27:	00 69 fb             	add    BYTE PTR [ecx-0x5],ch
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fb96:    7fb2b:	00 96 fb 07 00 78    	add    BYTE PTR [esi+0x780007fb],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fb78:    7fb2b:	00 96 fb 07 00 78    	add    BYTE PTR [esi+0x780007fb],dl
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7fb87:    7fb33:	00 87 fb 07 00     	add    BYTE PTR [edi+0x530007fb],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x8076d:    8063c:	6d                   	ins    DWORD PTR es:[edi],dx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x80763:    80644:	63 07                	arpl   WORD PTR [edi],eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x80749:    80648:	49                   	dec    ecx
+[1750799505] [WARNING ] Failed to match fixup target offset 0x80763:    80650:	63 07                	arpl   WORD PTR [edi],eax
+[1750799505] [WARNING ] Failed to match fixup target offset 0x81135:    810f0:	35 11 08 00 3d       	xor    eax,0x3d000811
+[1750799505] [WARNING ] Failed to match fixup target offset 0x8113d:    810f0:	35 11 08 00 3d       	xor    eax,0x3d000811
+[1750799505] [WARNING ] Failed to match fixup target offset 0x81147:    810f7:	00 47 11             	add    BYTE PTR [edi+0x11],al
+[1750799505] [WARNING ] Failed to match fixup target offset 0x8112c:    810fc:	2c 11                	sub    al,0x11
+[1750799505] [WARNING ] Failed to match fixup target offset 0x81135:    81100:	35 11 08 00 47       	xor    eax,0x47000811
+[1750799505] [WARNING ] Failed to match fixup target offset 0x81147:    81100:	35 11 08 00 47       	xor    eax,0x47000811
+[1750799505] [WARNING ] Failed to match fixup target offset 0x8113d:    81107:	00 3d 11 08 00 3d    	add    BYTE PTR ds:0x3d000811,bh
+[1750799505] [WARNING ] Failed to match fixup target offset 0x8113d:    81107:	00 3d 11 08 00 3d    	add    BYTE PTR ds:0x3d000811,bh
+[1750799505] [WARNING ] Misplaced item '__Bin2String branch 7'/'__Bin2String_branch_7' at offset 0x814b1
+[1750799505] [WARNING ] Misplaced item '__Bin2String branch 8'/'__Bin2String_branch_8' at offset 0x8151a
+[1750799505] [DEBUG   ] Size of formatted disassembly: 180484 lines, 11881441 bytes
+[1750799505] [INFO    ] Generating formatted disassembly of object 2:
+[1750799505] [DEBUG   ] Gathering fixup records for current object...
+[1750799505] [DEBUG   ] Fixup records: total: 21704, current object: 0
+[1750799505] [DEBUG   ] Mapping disassembly offsets to fixup records...
+[1750799505] [DEBUG   ] Mapped offsets: 0, mapped records: 0, unmapped records: 0
+[1750799505] [DEBUG   ] Size of formatted disassembly: 84 lines, 7819 bytes
+[1750799505] [INFO    ] Generating formatted disassembly of object 3:
+[1750799505] [DEBUG   ] Gathering fixup records for current object...
+[1750799505] [DEBUG   ] Fixup records: total: 21704, current object: 418
+[1750799505] [DEBUG   ] Mapping disassembly offsets to fixup records...
+[1750799505] [DEBUG   ] Mapped offsets: 418, mapped records: 418, unmapped records: 0
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7bc0:    12d94:	00 00 00 00          	dd     0x00000000
+[1750799505] [WARNING ] Failed to match fixup target offset 0x7bc0:    12e08:	00 00 00 00          	dd     0x00000000
+[1750799505] [WARNING ] Misplaced item 'Virtual padding'/'virtual_padding' at offset 0x16e22
+[1750799505] [DEBUG   ] Size of formatted disassembly: 138266 lines, 13703512 bytes
+[1750799505] [INFO    ] 
+[1750799505] [INFO    ] Possible object hints for code objects:
+[1750799505] [DEBUG   ] Object 1:
+[1750799505] [DEBUG   ] x) start = 0000485CH, end = 00004870H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00005FF4H, end = 00006010H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000062A4H, end = 000062C0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0000651CH, end = 00006530H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00006904H, end = 00006920H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0000F714H, end = 0000F750H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000105DCH, end = 00010610H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000286A0H, end = 000286B0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0003D560H, end = 0003D570H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0003D570H, end = 0003D65CH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0003D65CH, end = 0003D750H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000439F4H, end = 00043A10H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000441CCH, end = 00044220H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00045BB8H, end = 00045C10H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000469E4H, end = 00046A03H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00050E00H, end = 00050EE0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00050F3AH, end = 00050F4AH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0005107FH, end = 000510B0H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 000510E1H, end = 00051112H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000511C5H, end = 000511E3H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00051289H, end = 00051299H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00051341H, end = 00051359H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 00051852H, end = 0005188CH, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 00051A6AH, end = 00051AB6H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 000521D9H, end = 000521EDH, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 000523C5H, end = 00052415H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 00052A78H, end = 00052A8EH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00052B50H, end = 00052B6FH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000548C8H, end = 00054910H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00057368H, end = 00057378H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00057378H, end = 00057390H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0005837FH, end = 000583CDH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0005A042H, end = 0005A072H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 0005A3DCH, end = 0005A3F0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0005BF54H, end = 0005BF70H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0005C06DH, end = 0005C07CH, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 0005DC4CH, end = 0005DC70H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00063524H, end = 00063540H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00064154H, end = 00064180H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000688FCH, end = 00068920H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000713BDH, end = 000713C0H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 00076AEFH, end = 00076B1FH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 00076C02H, end = 00076C27H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 00077889H, end = 0007788DH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007788DH, end = 0007788FH, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 00077960H, end = 00077968H, type = data, mode = fwords, comment = Data (FWORDS)
+[1750799505] [DEBUG   ] x) start = 000797C0H, end = 000797F0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007BCA0H, end = 0007BCC5H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 0007BFCCH, end = 0007BFD0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007BFD0H, end = 0007BFD4H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007BFD4H, end = 0007BFD6H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007BFD6H, end = 0007BFD8H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007BFD8H, end = 0007BFDAH, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007BFDAH, end = 0007C026H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007C026H, end = 0007C028H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007C028H, end = 0007C02CH, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007C02CH, end = 0007C02EH, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007C02EH, end = 0007C076H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007C076H, end = 0007C07AH, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 0007C07AH, end = 0007C084H, type = data, mode = bytes, comment = Data (BYTES)
+[1750799505] [DEBUG   ] x) start = 0007C084H, end = 0007C0E4H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007C0E4H, end = 0007C144H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007C144H, end = 0007C244H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007C244H, end = 0007C344H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007CF19H, end = 0007CF39H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D058H, end = 0007D078H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D0D9H, end = 0007D0F9H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D2F4H, end = 0007D314H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D3FEH, end = 0007D41EH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D516H, end = 0007D536H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D59FH, end = 0007D5BFH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D7A8H, end = 0007D7C8H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007D95DH, end = 0007D97DH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007E36BH, end = 0007E36FH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007EC42H, end = 0007EC45H, type = data, mode = words, comment = Data (WORDS)
+[1750799505] [DEBUG   ] x) start = 0007F890H, end = 0007F8B0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007F8B0H, end = 0007F8D0H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0007FB1CH, end = 0007FB38H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 0008063CH, end = 0008065CH, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [DEBUG   ] x) start = 000810F0H, end = 00081110H, type = data, mode = dwords, comment = Data (DWORDS)
+[1750799505] [INFO    ] 
+[1750799505] [INFO    ] Deduplicating formatted disassembly of all objects:
+[1750799505] [DEBUG   ] Processing object 1...
+[1750799506] [DEBUG   ] Result: 180484 lines, 11881441 bytes -> 179793 lines (99.62%), 11851834 bytes (99.75%)
+[1750799506] [DEBUG   ] Processing object 2...
+[1750799506] [DEBUG   ] Result: 84 lines, 7819 bytes -> 44 lines (52.38%), 3257 bytes (41.65%)
+[1750799506] [DEBUG   ] Processing object 3...
+[1750799506] [DEBUG   ] Result: 138266 lines, 13703512 bytes -> 19702 lines (14.25%), 1372480 bytes (10.02%)
+[1750799506] [INFO    ] 
+[1750799506] [INFO    ] Writing disassembly results to files:
+[1750799511] [DEBUG   ] Wrote 20 files
+[1750799511] [INFO    ] 
+[1750799511] [INFO    ] Splitting formatted disassembly into separate files:
+[1750799512] [DEBUG   ] Wrote 118 modules to separate files
+[1750799512] [DEBUG   ] Wrote 191 modules to 'library.asm'

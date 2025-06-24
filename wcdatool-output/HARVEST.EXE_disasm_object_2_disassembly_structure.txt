@@ -1,0 +1,88 @@
+0: <dict, 7 items, class 'OrderedDict'>
+  'type':   'object start'
+  'start':  0 (0x0)
+  'end':    50 (0x32)
+  'length': 50 (0x32)
+  'name':   'Object 2'
+  'label':  'object_2'
+  'objnum': 2 (0x2)
+1: <dict, 8 items, class 'OrderedDict'>
+  'type':   'virtual padding start'
+  'start':  0 (0x0)
+  'end':    50 (0x32)
+  'length': 50 (0x32)
+  'name':   'Virtual padding'
+  'label':  'virtual_padding'
+  'size':   50 (0x32)
+  'objnum': 2 (0x2)
+2: <dict, 7 items, class 'OrderedDict'>
+  'type':   'module start'
+  'start':  0 (0x0)
+  'end':    50 (0x32)
+  'length': 50 (0x32)
+  'name':   'D:\\SOURCE\\mscdex.cpp'
+  'label':  'mscdex_cpp'
+  'modnum': 72 (0x48)
+3: <dict, 7 items, class 'OrderedDict'>
+  'type':   'variable'
+  'start':  0 (0x0)
+  'end':    50 (0x32)
+  'length': 50 (0x32)
+  'name':   'call_structure'
+  'label':  'call_structure'
+  'source': 'debug info'
+4: <dict, 8 items, class 'OrderedDict'>
+  'type':         'variable'
+  'start':        16 (0x10)
+  'end':          24 (0x18)
+  'length':       8 (0x8)
+  'name':         'call_structure variable 1'
+  'label':        'call_structure_variable_1'
+  'source':       'fixup data'
+  'access sizes': <list, 2 items, class 'list'>
+    0: 'DWORD'
+    1: 'WORD'
+5: <dict, 8 items, class 'OrderedDict'>
+  'type':         'variable'
+  'start':        24 (0x18)
+  'end':          28 (0x1c)
+  'length':       4 (0x4)
+  'name':         'call_structure variable 2'
+  'label':        'call_structure_variable_2'
+  'source':       'fixup data'
+  'access sizes': <list, 1 items, class 'list'>
+    0: 'WORD'
+6: <dict, 8 items, class 'OrderedDict'>
+  'type':         'variable'
+  'start':        28 (0x1c)
+  'end':          50 (0x32)
+  'length':       22 (0x16)
+  'name':         'call_structure variable 3'
+  'label':        'call_structure_variable_3'
+  'source':       'fixup data'
+  'access sizes': <list, 2 items, class 'list'>
+    0: 'DWORD'
+    1: 'BYTE'
+7: <dict, 7 items, class 'OrderedDict'>
+  'type':   'module end'
+  'start':  50 (0x32)
+  'end':    50 (0x32)
+  'length': 0 (0x0)
+  'name':   'D:\\SOURCE\\mscdex.cpp'
+  'label':  'mscdex_cpp'
+  'modnum': 72 (0x48)
+8: <dict, 6 items, class 'OrderedDict'>
+  'type':   'virtual padding end'
+  'start':  50 (0x32)
+  'end':    50 (0x32)
+  'length': 0 (0x0)
+  'name':   'Virtual padding'
+  'label':  'virtual_padding'
+9: <dict, 7 items, class 'OrderedDict'>
+  'type':   'object end'
+  'start':  50 (0x32)
+  'end':    50 (0x32)
+  'length': 0 (0x0)
+  'name':   'Object 2'
+  'label':  'object_2'
+  'objnum': 2 (0x2)

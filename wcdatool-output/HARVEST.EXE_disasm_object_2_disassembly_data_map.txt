@@ -1,0 +1,24 @@
+0: <dict, 5 items, class 'OrderedDict'>
+  'start':  0 (0x0)
+  'end':    16 (0x10)
+  'type':   'data'
+  'mode':   'default'
+  'source': 'structure'
+1: <dict, 5 items, class 'OrderedDict'>
+  'start':  16 (0x10)
+  'end':    24 (0x18)
+  'type':   'data'
+  'mode':   'words'
+  'source': 'structure'
+2: <dict, 5 items, class 'OrderedDict'>
+  'start':  24 (0x18)
+  'end':    28 (0x1c)
+  'type':   'data'
+  'mode':   'words'
+  'source': 'structure'
+3: <dict, 5 items, class 'OrderedDict'>
+  'start':  28 (0x1c)
+  'end':    50 (0x32)
+  'type':   'data'
+  'mode':   'bytes'
+  'source': 'structure'

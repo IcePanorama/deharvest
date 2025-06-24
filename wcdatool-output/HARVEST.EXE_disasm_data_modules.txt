@@ -1,0 +1,3845 @@
+0:   <dict, 4 items, class 'OrderedDict'>
+  'num':      0 (0x0)
+  'name':     'D:\\SOURCE\\main.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 16 (0x10)
+      'size':   4080 (0xff0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 4 (0x4)
+      'size':   584 (0x248)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69432 (0x10f38)
+      'size':   156 (0x9c)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 97844 (0x17e34)
+      'size':   60 (0x3c)
+1:   <dict, 4 items, class 'OrderedDict'>
+  'num':      1 (0x1)
+  'name':     'D:\\SOURCE\\biosmode.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 4096 (0x1000)
+      'size':   464 (0x1d0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69588 (0x10fd4)
+      'size':   64 (0x40)
+2:   <dict, 4 items, class 'OrderedDict'>
+  'num':      2 (0x2)
+  'name':     'D:\\SOURCE\\fst.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 5 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 4560 (0x11d0)
+      'size':   12992 (0x32c0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 588 (0x24c)
+      'size':   580 (0x244)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68660 (0x10c34)
+      'size':   60 (0x3c)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69652 (0x11014)
+      'size':   7000 (0x1b58)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 97904 (0x17e70)
+      'size':   4 (0x4)
+3:   <dict, 4 items, class 'OrderedDict'>
+  'num':      3 (0x3)
+  'name':     'D:\\SOURCE\\joystick.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 17552 (0x4490)
+      'size':   1872 (0x750)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 1168 (0x490)
+      'size':   212 (0xd4)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68720 (0x10c70)
+      'size':   32 (0x20)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 76652 (0x12b6c)
+      'size':   72 (0x48)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93586 (0x16d92)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 97908 (0x17e74)
+      'size':   28 (0x1c)
+4:   <dict, 4 items, class 'OrderedDict'>
+  'num':      4 (0x4)
+  'name':     'D:\\SOURCE\\vesamode.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 19424 (0x4be0)
+      'size':   8272 (0x2050)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 1380 (0x564)
+      'size':   336 (0x150)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 76724 (0x12bb4)
+      'size':   256 (0x100)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 97936 (0x17e90)
+      'size':   8912 (0x22d0)
+5:   <dict, 4 items, class 'OrderedDict'>
+  'num':      5 (0x5)
+  'name':     'D:\\SOURCE\\os_slice.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 27696 (0x6c30)
+      'size':   544 (0x220)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 1716 (0x6b4)
+      'size':   72 (0x48)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 76980 (0x12cb4)
+      'size':   20 (0x14)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 106848 (0x1a160)
+      'size':   48 (0x30)
+6:   <dict, 4 items, class 'OrderedDict'>
+  'num':      6 (0x6)
+  'name':     'D:\\SOURCE\\match.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 28240 (0x6e50)
+      'size':   960 (0x3c0)
+7:   <dict, 4 items, class 'OrderedDict'>
+  'num':      7 (0x7)
+  'name':     'D:\\SOURCE\\monotext.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 29200 (0x7210)
+      'size':   32 (0x20)
+8:   <dict, 4 items, class 'OrderedDict'>
+  'num':      8 (0x8)
+  'name':     'D:\\SOURCE\\dpmi.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 29232 (0x7230)
+      'size':   576 (0x240)
+9:   <dict, 4 items, class 'OrderedDict'>
+  'num':      9 (0x9)
+  'name':     'D:\\SOURCE\\sound.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 29808 (0x7470)
+      'size':   20880 (0x5190)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 1788 (0x6fc)
+      'size':   2248 (0x8c8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68752 (0x10c90)
+      'size':   60 (0x3c)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 77000 (0x12cc8)
+      'size':   412 (0x19c)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93592 (0x16d98)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 106896 (0x1a190)
+      'size':   572 (0x23c)
+10:  <dict, 4 items, class 'OrderedDict'>
+  'num':      10 (0xa)
+  'name':     'D:\\SOURCE\\xfile.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 50688 (0xc600)
+      'size':   10224 (0x27f0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 4036 (0xfc4)
+      'size':   600 (0x258)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 77412 (0x12e64)
+      'size':   16 (0x10)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 107468 (0x1a3cc)
+      'size':   33696 (0x83a0)
+11:  <dict, 4 items, class 'OrderedDict'>
+  'num':      11 (0xb)
+  'name':     'D:\\SOURCE\\flic.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 60912 (0xedf0)
+      'size':   9184 (0x23e0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 4636 (0x121c)
+      'size':   148 (0x94)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 141164 (0x2276c)
+      'size':   4 (0x4)
+12:  <dict, 4 items, class 'OrderedDict'>
+  'num':      12 (0xc)
+  'name':     'D:\\SOURCE\\vesa_vbe.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 70096 (0x111d0)
+      'size':   720 (0x2d0)
+13:  <dict, 4 items, class 'OrderedDict'>
+  'num':      13 (0xd)
+  'name':     'D:\\SOURCE\\iff2bm.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 70816 (0x114a0)
+      'size':   4592 (0x11f0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 4784 (0x12b0)
+      'size':   332 (0x14c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 77428 (0x12e74)
+      'size':   16 (0x10)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 141168 (0x22770)
+      'size':   808 (0x328)
+14:  <dict, 4 items, class 'OrderedDict'>
+  'num':      14 (0xe)
+  'name':     'D:\\SOURCE\\graphics.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 75408 (0x12690)
+      'size':   6192 (0x1830)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 5116 (0x13fc)
+      'size':   604 (0x25c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 141976 (0x22a98)
+      'size':   4 (0x4)
+15:  <dict, 4 items, class 'OrderedDict'>
+  'num':      15 (0xf)
+  'name':     'D:\\SOURCE\\fortify.c'
+  'language': 'C'
+  'offsets':  <list, 0 items, class 'list'>
+16:  <dict, 4 items, class 'OrderedDict'>
+  'num':      16 (0x10)
+  'name':     'D:\\SOURCE\\zfortify.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 0 items, class 'list'>
+17:  <dict, 4 items, class 'OrderedDict'>
+  'num':      17 (0x11)
+  'name':     'D:\\SOURCE\\ms_whale.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 81600 (0x13ec0)
+      'size':   2912 (0xb60)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 5720 (0x1658)
+      'size':   964 (0x3c4)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 141980 (0x22a9c)
+      'size':   28 (0x1c)
+18:  <dict, 4 items, class 'OrderedDict'>
+  'num':      18 (0x12)
+  'name':     'D:\\SOURCE\\mr_moyna.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 84512 (0x14a20)
+      'size':   5600 (0x15e0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 6684 (0x1a1c)
+      'size':   1472 (0x5c0)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142008 (0x22ab8)
+      'size':   60 (0x3c)
+19:  <dict, 4 items, class 'OrderedDict'>
+  'num':      19 (0x13)
+  'name':     'D:\\SOURCE\\mr_potts.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 90112 (0x16000)
+      'size':   7632 (0x1dd0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 8156 (0x1fdc)
+      'size':   2716 (0xa9c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142068 (0x22af4)
+      'size':   256 (0x100)
+20:  <dict, 4 items, class 'OrderedDict'>
+  'num':      20 (0x14)
+  'name':     'D:\\SOURCE\\mr_johns.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 97744 (0x17dd0)
+      'size':   2736 (0xab0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 10872 (0x2a78)
+      'size':   848 (0x350)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142324 (0x22bf4)
+      'size':   48 (0x30)
+21:  <dict, 4 items, class 'OrderedDict'>
+  'num':      21 (0x15)
+  'name':     'D:\\SOURCE\\jimmy.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 100480 (0x18880)
+      'size':   1728 (0x6c0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 11720 (0x2dc8)
+      'size':   624 (0x270)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142372 (0x22c24)
+      'size':   12 (0xc)
+22:  <dict, 4 items, class 'OrderedDict'>
+  'num':      22 (0x16)
+  'name':     'D:\\SOURCE\\libraria.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 102208 (0x18f40)
+      'size':   464 (0x1d0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 12344 (0x3038)
+      'size':   192 (0xc0)
+23:  <dict, 4 items, class 'OrderedDict'>
+  'num':      23 (0x17)
+  'name':     'D:\\SOURCE\\mr_swell.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 102672 (0x19110)
+      'size':   1568 (0x620)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 12536 (0x30f8)
+      'size':   388 (0x184)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142384 (0x22c30)
+      'size':   24 (0x18)
+24:  <dict, 4 items, class 'OrderedDict'>
+  'num':      24 (0x18)
+  'name':     'D:\\SOURCE\\priest.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 104240 (0x19730)
+      'size':   496 (0x1f0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 12924 (0x327c)
+      'size':   236 (0xec)
+25:  <dict, 4 items, class 'OrderedDict'>
+  'num':      25 (0x19)
+  'name':     'D:\\SOURCE\\ms_phelp.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 104736 (0x19920)
+      'size':   2144 (0x860)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 13160 (0x3368)
+      'size':   792 (0x318)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142408 (0x22c48)
+      'size':   60 (0x3c)
+26:  <dict, 4 items, class 'OrderedDict'>
+  'num':      26 (0x1a)
+  'name':     'D:\\SOURCE\\pat_o.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 106880 (0x1a180)
+      'size':   3136 (0xc40)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 13952 (0x3680)
+      'size':   876 (0x36c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142468 (0x22c84)
+      'size':   12 (0xc)
+27:  <dict, 4 items, class 'OrderedDict'>
+  'num':      27 (0x1b)
+  'name':     'D:\\SOURCE\\madam.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 110016 (0x1adc0)
+      'size':   432 (0x1b0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 14828 (0x39ec)
+      'size':   232 (0xe8)
+28:  <dict, 4 items, class 'OrderedDict'>
+  'num':      28 (0x1c)
+  'name':     'D:\\SOURCE\\grndmuck.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 0 items, class 'list'>
+29:  <dict, 4 items, class 'OrderedDict'>
+  'num':      29 (0x1d)
+  'name':     'D:\\SOURCE\\inquisit.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 110448 (0x1af70)
+      'size':   176 (0xb0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 15060 (0x3ad4)
+      'size':   72 (0x48)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142480 (0x22c90)
+      'size':   4 (0x4)
+30:  <dict, 4 items, class 'OrderedDict'>
+  'num':      30 (0x1e)
+  'name':     'D:\\SOURCE\\dad.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 110624 (0x1b020)
+      'size':   1424 (0x590)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 15132 (0x3b1c)
+      'size':   476 (0x1dc)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142484 (0x22c94)
+      'size':   4 (0x4)
+31:  <dict, 4 items, class 'OrderedDict'>
+  'num':      31 (0x1f)
+  'name':     'D:\\SOURCE\\mother.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 112048 (0x1b5b0)
+      'size':   240 (0xf0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 15608 (0x3cf8)
+      'size':   44 (0x2c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142488 (0x22c98)
+      'size':   4 (0x4)
+32:  <dict, 4 items, class 'OrderedDict'>
+  'num':      32 (0x20)
+  'name':     'D:\\SOURCE\\maint_ma.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 112288 (0x1b6a0)
+      'size':   144 (0x90)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 15652 (0x3d24)
+      'size':   148 (0x94)
+33:  <dict, 4 items, class 'OrderedDict'>
+  'num':      33 (0x21)
+  'name':     'D:\\SOURCE\\authorit.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 112432 (0x1b730)
+      'size':   144 (0x90)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 15800 (0x3db8)
+      'size':   168 (0xa8)
+34:  <dict, 4 items, class 'OrderedDict'>
+  'num':      34 (0x22)
+  'name':     'D:\\SOURCE\\col_bust.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 112576 (0x1b7c0)
+      'size':   3696 (0xe70)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 15968 (0x3e60)
+      'size':   744 (0x2e8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142492 (0x22c9c)
+      'size':   16 (0x10)
+35:  <dict, 4 items, class 'OrderedDict'>
+  'num':      35 (0x23)
+  'name':     'D:\\SOURCE\\gladiato.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 116272 (0x1c630)
+      'size':   320 (0x140)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 16712 (0x4148)
+      'size':   196 (0xc4)
+36:  <dict, 4 items, class 'OrderedDict'>
+  'num':      36 (0x24)
+  'name':     'D:\\SOURCE\\mr_mckni.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 116592 (0x1c770)
+      'size':   944 (0x3b0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 16908 (0x420c)
+      'size':   360 (0x168)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142508 (0x22cac)
+      'size':   12 (0xc)
+37:  <dict, 4 items, class 'OrderedDict'>
+  'num':      37 (0x25)
+  'name':     'D:\\SOURCE\\boyle.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 117536 (0x1cb20)
+      'size':   3552 (0xde0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 17268 (0x4374)
+      'size':   832 (0x340)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142520 (0x22cb8)
+      'size':   24 (0x18)
+38:  <dict, 4 items, class 'OrderedDict'>
+  'num':      38 (0x26)
+  'name':     'D:\\SOURCE\\chessman.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 121088 (0x1d900)
+      'size':   176 (0xb0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 18100 (0x46b4)
+      'size':   136 (0x88)
+39:  <dict, 4 items, class 'OrderedDict'>
+  'num':      39 (0x27)
+  'name':     'D:\\SOURCE\\nudeman.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 121264 (0x1d9b0)
+      'size':   464 (0x1d0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 18236 (0x473c)
+      'size':   124 (0x7c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142544 (0x22cd0)
+      'size':   8 (0x8)
+40:  <dict, 4 items, class 'OrderedDict'>
+  'num':      40 (0x28)
+  'name':     'D:\\SOURCE\\cloakatt.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 121728 (0x1db80)
+      'size':   128 (0x80)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 18360 (0x47b8)
+      'size':   56 (0x38)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142552 (0x22cd8)
+      'size':   4 (0x4)
+41:  <dict, 4 items, class 'OrderedDict'>
+  'num':      41 (0x29)
+  'name':     'D:\\SOURCE\\principa.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 121856 (0x1dc00)
+      'size':   3728 (0xe90)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 18416 (0x47f0)
+      'size':   1084 (0x43c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142556 (0x22cdc)
+      'size':   56 (0x38)
+42:  <dict, 4 items, class 'OrderedDict'>
+  'num':      42 (0x2a)
+  'name':     'D:\\SOURCE\\karin.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 125584 (0x1ea90)
+      'size':   784 (0x310)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 19500 (0x4c2c)
+      'size':   296 (0x128)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142612 (0x22d14)
+      'size':   12 (0xc)
+43:  <dict, 4 items, class 'OrderedDict'>
+  'num':      43 (0x2b)
+  'name':     'D:\\SOURCE\\valet.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 126368 (0x1eda0)
+      'size':   208 (0xd0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 19796 (0x4d54)
+      'size':   36 (0x24)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142624 (0x22d20)
+      'size':   4 (0x4)
+44:  <dict, 4 items, class 'OrderedDict'>
+  'num':      44 (0x2c)
+  'name':     'D:\\SOURCE\\ms_potts.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 126576 (0x1ee70)
+      'size':   3760 (0xeb0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 19832 (0x4d78)
+      'size':   1240 (0x4d8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142628 (0x22d24)
+      'size':   36 (0x24)
+45:  <dict, 4 items, class 'OrderedDict'>
+  'num':      45 (0x2d)
+  'name':     'D:\\SOURCE\\vet.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 130336 (0x1fd20)
+      'size':   192 (0xc0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 21072 (0x5250)
+      'size':   68 (0x44)
+46:  <dict, 4 items, class 'OrderedDict'>
+  'num':      46 (0x2e)
+  'name':     'D:\\SOURCE\\wasp_wo.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 130528 (0x1fde0)
+      'size':   1376 (0x560)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 21140 (0x5294)
+      'size':   404 (0x194)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142664 (0x22d48)
+      'size':   4 (0x4)
+47:  <dict, 4 items, class 'OrderedDict'>
+  'num':      47 (0x2f)
+  'name':     'D:\\SOURCE\\sergeant.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 131904 (0x20340)
+      'size':   3584 (0xe00)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 21544 (0x5428)
+      'size':   1396 (0x574)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142668 (0x22d4c)
+      'size':   40 (0x28)
+48:  <dict, 4 items, class 'OrderedDict'>
+  'num':      48 (0x30)
+  'name':     'D:\\SOURCE\\mom.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 135488 (0x21140)
+      'size':   9424 (0x24d0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 22940 (0x599c)
+      'size':   1740 (0x6cc)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142708 (0x22d74)
+      'size':   88 (0x58)
+49:  <dict, 4 items, class 'OrderedDict'>
+  'num':      49 (0x31)
+  'name':     'D:\\SOURCE\\dark_wo.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 144912 (0x23610)
+      'size':   576 (0x240)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 24680 (0x6068)
+      'size':   244 (0xf4)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142796 (0x22dcc)
+      'size':   4 (0x4)
+50:  <dict, 4 items, class 'OrderedDict'>
+  'num':      50 (0x32)
+  'name':     'D:\\SOURCE\\fireman3.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 145488 (0x23850)
+      'size':   480 (0x1e0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 24924 (0x615c)
+      'size':   156 (0x9c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142800 (0x22dd0)
+      'size':   24 (0x18)
+51:  <dict, 4 items, class 'OrderedDict'>
+  'num':      51 (0x33)
+  'name':     'D:\\SOURCE\\hank.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 145968 (0x23a30)
+      'size':   4720 (0x1270)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 25080 (0x61f8)
+      'size':   808 (0x328)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142824 (0x22de8)
+      'size':   44 (0x2c)
+52:  <dict, 4 items, class 'OrderedDict'>
+  'num':      52 (0x34)
+  'name':     'D:\\SOURCE\\curator.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 150688 (0x24ca0)
+      'size':   160 (0xa0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 25888 (0x6520)
+      'size':   52 (0x34)
+53:  <dict, 4 items, class 'OrderedDict'>
+  'num':      53 (0x35)
+  'name':     'D:\\SOURCE\\beggar.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 150848 (0x24d40)
+      'size':   240 (0xf0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 25940 (0x6554)
+      'size':   108 (0x6c)
+54:  <dict, 4 items, class 'OrderedDict'>
+  'num':      54 (0x36)
+  'name':     'D:\\SOURCE\\pta_mom.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 151088 (0x24e30)
+      'size':   336 (0x150)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 26048 (0x65c0)
+      'size':   140 (0x8c)
+55:  <dict, 4 items, class 'OrderedDict'>
+  'num':      55 (0x37)
+  'name':     'D:\\SOURCE\\dep_loom.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 151424 (0x24f80)
+      'size':   2336 (0x920)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 26188 (0x664c)
+      'size':   668 (0x29c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142868 (0x22e14)
+      'size':   16 (0x10)
+56:  <dict, 4 items, class 'OrderedDict'>
+  'num':      56 (0x38)
+  'name':     'D:\\SOURCE\\edna.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 153760 (0x258a0)
+      'size':   3696 (0xe70)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 26856 (0x68e8)
+      'size':   1100 (0x44c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142884 (0x22e24)
+      'size':   40 (0x28)
+57:  <dict, 4 items, class 'OrderedDict'>
+  'num':      57 (0x39)
+  'name':     'D:\\SOURCE\\steph.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 157456 (0x26710)
+      'size':   6736 (0x1a50)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 27956 (0x6d34)
+      'size':   1980 (0x7bc)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 142924 (0x22e4c)
+      'size':   76 (0x4c)
+58:  <dict, 4 items, class 'OrderedDict'>
+  'num':      58 (0x3a)
+  'name':     'D:\\SOURCE\\mr_past.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 164192 (0x28160)
+      'size':   16 (0x10)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 29936 (0x74f0)
+      'size':   16 (0x10)
+59:  <dict, 4 items, class 'OrderedDict'>
+  'num':      59 (0x3b)
+  'name':     'D:\\SOURCE\\chef.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 164208 (0x28170)
+      'size':   192 (0xc0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 29952 (0x7500)
+      'size':   80 (0x50)
+60:  <dict, 4 items, class 'OrderedDict'>
+  'num':      60 (0x3c)
+  'name':     'D:\\SOURCE\\global.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 164400 (0x28230)
+      'size':   2640 (0xa50)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 30032 (0x7550)
+      'size':   1760 (0x6e0)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143000 (0x22e98)
+      'size':   156 (0x9c)
+61:  <dict, 4 items, class 'OrderedDict'>
+  'num':      61 (0x3d)
+  'name':     'D:\\SOURCE\\ryder.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 167040 (0x28c80)
+      'size':   1472 (0x5c0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 31792 (0x7c30)
+      'size':   268 (0x10c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143156 (0x22f34)
+      'size':   12 (0xc)
+62:  <dict, 4 items, class 'OrderedDict'>
+  'num':      62 (0x3e)
+  'name':     'D:\\SOURCE\\sparky.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 168512 (0x29240)
+      'size':   1168 (0x490)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 32060 (0x7d3c)
+      'size':   236 (0xec)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143168 (0x22f40)
+      'size':   32 (0x20)
+63:  <dict, 4 items, class 'OrderedDict'>
+  'num':      63 (0x3f)
+  'name':     'D:\\SOURCE\\mem_dir.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 169680 (0x296d0)
+      'size':   240 (0xf0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 32296 (0x7e28)
+      'size':   88 (0x58)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143200 (0x22f60)
+      'size':   8 (0x8)
+64:  <dict, 4 items, class 'OrderedDict'>
+  'num':      64 (0x40)
+  'name':     'D:\\SOURCE\\mr_parso.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 169920 (0x297c0)
+      'size':   1984 (0x7c0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 32384 (0x7e80)
+      'size':   608 (0x260)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143208 (0x22f68)
+      'size':   28 (0x1c)
+65:  <dict, 4 items, class 'OrderedDict'>
+  'num':      65 (0x41)
+  'name':     'D:\\SOURCE\\dialog.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 171904 (0x29f80)
+      'size':   720 (0x2d0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 32992 (0x80e0)
+      'size':   200 (0xc8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 77444 (0x12e84)
+      'size':   3388 (0xd3c)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143236 (0x22f84)
+      'size':   4 (0x4)
+66:  <dict, 4 items, class 'OrderedDict'>
+  'num':      66 (0x42)
+  'name':     'D:\\SOURCE\\dwayne.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 172624 (0x2a250)
+      'size':   8944 (0x22f0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 33192 (0x81a8)
+      'size':   3304 (0xce8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143240 (0x22f88)
+      'size':   104 (0x68)
+67:  <dict, 4 items, class 'OrderedDict'>
+  'num':      67 (0x43)
+  'name':     'D:\\SOURCE\\viewport.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 181568 (0x2c540)
+      'size':   928 (0x3a0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 36496 (0x8e90)
+      'size':   28 (0x1c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68812 (0x10ccc)
+      'size':   32 (0x20)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80832 (0x13bc0)
+      'size':   36 (0x24)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93598 (0x16d9e)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143344 (0x22ff0)
+      'size':   84 (0x54)
+68:  <dict, 4 items, class 'OrderedDict'>
+  'num':      68 (0x44)
+  'name':     'D:\\SOURCE\\script.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 182496 (0x2c8e0)
+      'size':   46928 (0xb750)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 36524 (0x8eac)
+      'size':   980 (0x3d4)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68844 (0x10cec)
+      'size':   32 (0x20)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80868 (0x13be4)
+      'size':   12 (0xc)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93604 (0x16da4)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 143428 (0x23044)
+      'size':   1976 (0x7b8)
+69:  <dict, 4 items, class 'OrderedDict'>
+  'num':      69 (0x45)
+  'name':     'D:\\SOURCE\\debug.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 229424 (0x38030)
+      'size':   96 (0x60)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 37504 (0x9280)
+      'size':   200 (0xc8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 145404 (0x237fc)
+      'size':   260 (0x104)
+70:  <dict, 4 items, class 'OrderedDict'>
+  'num':      70 (0x46)
+  'name':     'D:\\SOURCE\\utility.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 229520 (0x38090)
+      'size':   752 (0x2f0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 37704 (0x9348)
+      'size':   32 (0x20)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 145664 (0x23900)
+      'size':   8192 (0x2000)
+71:  <dict, 4 items, class 'OrderedDict'>
+  'num':      71 (0x47)
+  'name':     'D:\\SOURCE\\keyboard.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 5 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 230272 (0x38380)
+      'size':   1104 (0x450)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68876 (0x10d0c)
+      'size':   32 (0x20)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80880 (0x13bf0)
+      'size':   12 (0xc)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93610 (0x16daa)
+      'size':   6 (0x6)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 153856 (0x25900)
+      'size':   108 (0x6c)
+72:  <dict, 4 items, class 'OrderedDict'>
+  'num':      72 (0x48)
+  'name':     'D:\\SOURCE\\mscdex.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 231376 (0x387d0)
+      'size':   2720 (0xaa0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 2 (0x2)
+      'offset': 0 (0x0)
+      'size':   50 (0x32)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 37736 (0x9368)
+      'size':   1260 (0x4ec)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 153964 (0x2596c)
+      'size':   4 (0x4)
+73:  <dict, 4 items, class 'OrderedDict'>
+  'num':      73 (0x49)
+  'name':     'D:\\SOURCE\\mouse.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 234096 (0x39270)
+      'size':   2032 (0x7f0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 38996 (0x9854)
+      'size':   28 (0x1c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68908 (0x10d2c)
+      'size':   32 (0x20)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80892 (0x13bfc)
+      'size':   12 (0xc)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93616 (0x16db0)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 153968 (0x25970)
+      'size':   24 (0x18)
+74:  <dict, 4 items, class 'OrderedDict'>
+  'num':      74 (0x4a)
+  'name':     'D:\\SOURCE\\bitmap.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 236128 (0x39a60)
+      'size':   4256 (0x10a0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 39024 (0x9870)
+      'size':   120 (0x78)
+75:  <dict, 4 items, class 'OrderedDict'>
+  'num':      75 (0x4b)
+  'name':     'D:\\SOURCE\\btmap.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 240384 (0x3ab00)
+      'size':   3456 (0xd80)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 39144 (0x98e8)
+      'size':   668 (0x29c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 153992 (0x25988)
+      'size':   112 (0x70)
+76:  <dict, 4 items, class 'OrderedDict'>
+  'num':      76 (0x4c)
+  'name':     'D:\\SOURCE\\classes.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 243840 (0x3b880)
+      'size':   50944 (0xc700)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 39812 (0x9b84)
+      'size':   7172 (0x1c04)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80904 (0x13c08)
+      'size':   8 (0x8)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154104 (0x259f8)
+      'size':   128 (0x80)
+77:  <dict, 4 items, class 'OrderedDict'>
+  'num':      77 (0x4d)
+  'name':     'D:\\SOURCE\\colorfnt.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 294784 (0x47f80)
+      'size':   3856 (0xf10)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 46984 (0xb788)
+      'size':   752 (0x2f0)
+78:  <dict, 4 items, class 'OrderedDict'>
+  'num':      78 (0x4e)
+  'name':     'D:\\SOURCE\\textmenu.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 298640 (0x48e90)
+      'size':   1184 (0x4a0)
+79:  <dict, 4 items, class 'OrderedDict'>
+  'num':      79 (0x4f)
+  'name':     'D:\\SOURCE\\timer.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 299824 (0x49330)
+      'size':   208 (0xd0)
+80:  <dict, 4 items, class 'OrderedDict'>
+  'num':      80 (0x50)
+  'name':     'D:\\SOURCE\\text.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 300032 (0x49400)
+      'size':   416 (0x1a0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154232 (0x25a78)
+      'size':   12 (0xc)
+81:  <dict, 4 items, class 'OrderedDict'>
+  'num':      81 (0x51)
+  'name':     'D:\\SOURCE\\text_box.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 300448 (0x495a0)
+      'size':   1632 (0x660)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 47736 (0xba78)
+      'size':   24 (0x18)
+82:  <dict, 4 items, class 'OrderedDict'>
+  'num':      82 (0x52)
+  'name':     'D:\\SOURCE\\textbm.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 302080 (0x49c00)
+      'size':   2384 (0x950)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 47760 (0xba90)
+      'size':   68 (0x44)
+83:  <dict, 4 items, class 'OrderedDict'>
+  'num':      83 (0x53)
+  'name':     'D:\\SOURCE\\puzzles.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 304464 (0x4a550)
+      'size':   7024 (0x1b70)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 47828 (0xbad4)
+      'size':   412 (0x19c)
+84:  <dict, 4 items, class 'OrderedDict'>
+  'num':      84 (0x54)
+  'name':     'D:\\SOURCE\\screen.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 311488 (0x4c0c0)
+      'size':   8272 (0x2050)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 48240 (0xbc70)
+      'size':   56 (0x38)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68940 (0x10d4c)
+      'size':   32 (0x20)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80912 (0x13c10)
+      'size':   12 (0xc)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93622 (0x16db6)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154244 (0x25a84)
+      'size':   12 (0xc)
+85:  <dict, 4 items, class 'OrderedDict'>
+  'num':      85 (0x55)
+  'name':     'D:\\SOURCE\\scrpties.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 319760 (0x4e110)
+      'size':   20912 (0x51b0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 48296 (0xbca8)
+      'size':   3752 (0xea8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80924 (0x13c1c)
+      'size':   4 (0x4)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154256 (0x25a90)
+      'size':   160 (0xa0)
+86:  <dict, 4 items, class 'OrderedDict'>
+  'num':      86 (0x56)
+  'name':     'D:\\SOURCE\\loadsave.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 340672 (0x532c0)
+      'size':   12704 (0x31a0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 52048 (0xcb50)
+      'size':   1380 (0x564)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 80928 (0x13c20)
+      'size':   100 (0x64)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154416 (0x25b30)
+      'size':   4 (0x4)
+87:  <dict, 4 items, class 'OrderedDict'>
+  'num':      87 (0x57)
+  'name':     'D:\\SOURCE\\map.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 353376 (0x56460)
+      'size':   3808 (0xee0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 53428 (0xd0b4)
+      'size':   580 (0x244)
+88:  <dict, 4 items, class 'OrderedDict'>
+  'num':      88 (0x58)
+  'name':     'D:\\SOURCE\\menu.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 357184 (0x57340)
+      'size':   26880 (0x6900)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 54008 (0xd2f8)
+      'size':   2816 (0xb00)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68972 (0x10d6c)
+      'size':   32 (0x20)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 81028 (0x13c84)
+      'size':   12 (0xc)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93628 (0x16dbc)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154420 (0x25b34)
+      'size':   36 (0x24)
+89:  <dict, 4 items, class 'OrderedDict'>
+  'num':      89 (0x59)
+  'name':     'D:\\SOURCE\\harvest.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 384064 (0x5dc40)
+      'size':   48352 (0xbce0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 56824 (0xddf8)
+      'size':   4888 (0x1318)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 81040 (0x13c90)
+      'size':   1000 (0x3e8)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 154456 (0x25b58)
+      'size':   1664 (0x680)
+90:  <dict, 4 items, class 'OrderedDict'>
+  'num':      90 (0x5a)
+  'name':     'D:\\SOURCE\\hmouse.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 432416 (0x69920)
+      'size':   240 (0xf0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 61712 (0xf110)
+      'size':   8 (0x8)
+91:  <dict, 4 items, class 'OrderedDict'>
+  'num':      91 (0x5b)
+  'name':     'D:\\SOURCE\\convutil.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 432656 (0x69a10)
+      'size':   15200 (0x3b60)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 61720 (0xf118)
+      'size':   2532 (0x9e4)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82040 (0x14078)
+      'size':   64 (0x40)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 156120 (0x261d8)
+      'size':   49760 (0xc260)
+92:  <dict, 4 items, class 'OrderedDict'>
+  'num':      92 (0x5c)
+  'name':     'D:\\SOURCE\\environ.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 6 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 447856 (0x6d570)
+      'size':   1616 (0x650)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 64252 (0xfafc)
+      'size':   204 (0xcc)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69004 (0x10d8c)
+      'size':   12 (0xc)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82104 (0x140b8)
+      'size':   12 (0xc)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93634 (0x16dc2)
+      'size':   6 (0x6)
+    5: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 205880 (0x32438)
+      'size':   16 (0x10)
+93:  <dict, 4 items, class 'OrderedDict'>
+  'num':      93 (0x5d)
+  'name':     'D:\\SOURCE\\mem_pool.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 449472 (0x6dbc0)
+      'size':   832 (0x340)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 64456 (0xfbc8)
+      'size':   276 (0x114)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 205896 (0x32448)
+      'size':   76 (0x4c)
+94:  <dict, 4 items, class 'OrderedDict'>
+  'num':      94 (0x5e)
+  'name':     'D:\\SOURCE\\inventry.cpp'
+  'language': 'CPP'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 450304 (0x6df00)
+      'size':   9696 (0x25e0)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 64732 (0xfcdc)
+      'size':   2424 (0x978)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82116 (0x140c4)
+      'size':   108 (0x6c)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 205972 (0x32494)
+      'size':   36 (0x24)
+95:  <dict, 4 items, class 'OrderedDict'>
+  'num':      95 (0x5f)
+  'name':     'soscodec.asm'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 460000 (0x704e0)
+      'size':   727 (0x2d7)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82224 (0x14130)
+      'size':   224 (0xe0)
+96:  <dict, 4 items, class 'OrderedDict'>
+  'num':      96 (0x60)
+  'name':     'd32_mem.c'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 460727 (0x707b7)
+      'size':   923 (0x39b)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67156 (0x10654)
+      'size':   20 (0x14)
+97:  <dict, 4 items, class 'OrderedDict'>
+  'num':      97 (0x61)
+  'name':     'printf'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 461650 (0x70b52)
+      'size':   34 (0x22)
+98:  <dict, 4 items, class 'OrderedDict'>
+  'num':      98 (0x62)
+  'name':     'getenv'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 461684 (0x70b74)
+      'size':   90 (0x5a)
+99:  <dict, 4 items, class 'OrderedDict'>
+  'num':      99 (0x63)
+  'name':     'sprintf'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 461774 (0x70bce)
+      'size':   67 (0x43)
+100: <dict, 4 items, class 'OrderedDict'>
+  'num':      100 (0x64)
+  'name':     'fopen'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 461841 (0x70c11)
+      'size':   557 (0x22d)
+101: <dict, 4 items, class 'OrderedDict'>
+  'num':      101 (0x65)
+  'name':     'fclose'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 462398 (0x70e3e)
+      'size':   322 (0x142)
+102: <dict, 4 items, class 'OrderedDict'>
+  'num':      102 (0x66)
+  'name':     'unlnk'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 462720 (0x70f80)
+      'size':   31 (0x1f)
+103: <dict, 4 items, class 'OrderedDict'>
+  'num':      103 (0x67)
+  'name':     'strdup'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 462751 (0x70f9f)
+      'size':   69 (0x45)
+104: <dict, 4 items, class 'OrderedDict'>
+  'num':      104 (0x68)
+  'name':     'd32_str.c'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 462820 (0x70fe4)
+      'size':   139 (0x8b)
+105: <dict, 4 items, class 'OrderedDict'>
+  'num':      105 (0x69)
+  'name':     'puts'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 462959 (0x7106f)
+      'size':   45 (0x2d)
+106: <dict, 4 items, class 'OrderedDict'>
+  'num':      106 (0x6a)
+  'name':     'int386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463004 (0x7109c)
+      'size':   27 (0x1b)
+107: <dict, 4 items, class 'OrderedDict'>
+  'num':      107 (0x6b)
+  'name':     'exit'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463031 (0x710b7)
+      'size':   49 (0x31)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82448 (0x14210)
+      'size':   12 (0xc)
+108: <dict, 4 items, class 'OrderedDict'>
+  'num':      108 (0x6c)
+  'name':     'cstrt386'
+  'language': 'C'
+  'offsets':  <list, 5 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 0 (0x0)
+      'size':   16 (0x10)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463080 (0x710e8)
+      'size':   728 (0x2d8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 0 (0x0)
+      'size':   4 (0x4)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82460 (0x1421c)
+      'size':   8 (0x8)
+    4: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 208304 (0x32db0)
+      'size':   4096 (0x1000)
+109: <dict, 4 items, class 'OrderedDict'>
+  'num':      109 (0x6d)
+  'name':     'fltused'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93640 (0x16dc8)
+      'size':   6 (0x6)
+110: <dict, 4 items, class 'OrderedDict'>
+  'num':      110 (0x6e)
+  'name':     '386inite'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463808 (0x713c0)
+      'size':   16 (0x10)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93646 (0x16dce)
+      'size':   6 (0x6)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93712 (0x16e10)
+      'size':   6 (0x6)
+111: <dict, 4 items, class 'OrderedDict'>
+  'num':      111 (0x6f)
+  'name':     '_8087386'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82468 (0x14224)
+      'size':   4 (0x4)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93652 (0x16dd4)
+      'size':   6 (0x6)
+112: <dict, 4 items, class 'OrderedDict'>
+  'num':      112 (0x70)
+  'name':     'argcv386'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82472 (0x14228)
+      'size':   8 (0x8)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93658 (0x16dda)
+      'size':   6 (0x6)
+113: <dict, 4 items, class 'OrderedDict'>
+  'num':      113 (0x71)
+  'name':     'set386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463824 (0x713d0)
+      'size':   24 (0x18)
+114: <dict, 4 items, class 'OrderedDict'>
+  'num':      114 (0x72)
+  'name':     'nfree'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463848 (0x713e8)
+      'size':   96 (0x60)
+115: <dict, 4 items, class 'OrderedDict'>
+  'num':      115 (0x73)
+  'name':     'undefed'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463944 (0x71448)
+      'size':   18 (0x12)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67176 (0x10668)
+      'size':   44 (0x2c)
+116: <dict, 4 items, class 'OrderedDict'>
+  'num':      116 (0x74)
+  'name':     'stricmp'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 463962 (0x7145a)
+      'size':   57 (0x39)
+117: <dict, 4 items, class 'OrderedDict'>
+  'num':      117 (0x75)
+  'name':     'nmalloc'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 464019 (0x71493)
+      'size':   227 (0xe3)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82480 (0x14230)
+      'size':   12 (0xc)
+118: <dict, 4 items, class 'OrderedDict'>
+  'num':      118 (0x76)
+  'name':     'open'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 464246 (0x71576)
+      'size':   590 (0x24e)
+119: <dict, 4 items, class 'OrderedDict'>
+  'num':      119 (0x77)
+  'name':     'write'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 464836 (0x717c4)
+      'size':   466 (0x1d2)
+120: <dict, 4 items, class 'OrderedDict'>
+  'num':      120 (0x78)
+  'name':     'sqrt387'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 465302 (0x71996)
+      'size':   103 (0x67)
+121: <dict, 4 items, class 'OrderedDict'>
+  'num':      121 (0x79)
+  'name':     'qsort'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 465405 (0x719fd)
+      'size':   1211 (0x4bb)
+122: <dict, 4 items, class 'OrderedDict'>
+  'num':      122 (0x7a)
+  'name':     'kbhit'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 466616 (0x71eb8)
+      'size':   23 (0x17)
+123: <dict, 4 items, class 'OrderedDict'>
+  'num':      123 (0x7b)
+  'name':     'lseek'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 466639 (0x71ecf)
+      'size':   65 (0x41)
+124: <dict, 4 items, class 'OrderedDict'>
+  'num':      124 (0x7c)
+  'name':     'close'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 466704 (0x71f10)
+      'size':   8 (0x8)
+125: <dict, 4 items, class 'OrderedDict'>
+  'num':      125 (0x7d)
+  'name':     'opnew'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 466712 (0x71f18)
+      'size':   75 (0x4b)
+126: <dict, 4 items, class 'OrderedDict'>
+  'num':      126 (0x7e)
+  'name':     'read'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 466787 (0x71f63)
+      'size':   277 (0x115)
+127: <dict, 4 items, class 'OrderedDict'>
+  'num':      127 (0x7f)
+  'name':     'opdel'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467064 (0x72078)
+      'size':   12 (0xc)
+128: <dict, 4 items, class 'OrderedDict'>
+  'num':      128 (0x80)
+  'name':     'stabmod'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467076 (0x72084)
+      'size':   94 (0x5e)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82492 (0x1423c)
+      'size':   12 (0xc)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93664 (0x16de0)
+      'size':   6 (0x6)
+129: <dict, 4 items, class 'OrderedDict'>
+  'num':      129 (0x81)
+  'name':     'delay386'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467170 (0x720e2)
+      'size':   6 (0x6)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93670 (0x16de6)
+      'size':   6 (0x6)
+130: <dict, 4 items, class 'OrderedDict'>
+  'num':      130 (0x82)
+  'name':     'moddtorr'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93718 (0x16e16)
+      'size':   6 (0x6)
+131: <dict, 4 items, class 'OrderedDict'>
+  'num':      131 (0x83)
+  'name':     'crwd386'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467176 (0x720e8)
+      'size':   1 (0x1)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82504 (0x14248)
+      'size':   68 (0x44)
+132: <dict, 4 items, class 'OrderedDict'>
+  'num':      132 (0x84)
+  'name':     'intx386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467177 (0x720e9)
+      'size':   25 (0x19)
+133: <dict, 4 items, class 'OrderedDict'>
+  'num':      133 (0x85)
+  'name':     'clockxib'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467202 (0x72102)
+      'size':   5 (0x5)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93676 (0x16dec)
+      'size':   6 (0x6)
+134: <dict, 4 items, class 'OrderedDict'>
+  'num':      134 (0x86)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSDETEC.C'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 467207 (0x72107)
+      'size':   3305 (0xce9)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67220 (0x10694)
+      'size':   12 (0xc)
+135: <dict, 4 items, class 'OrderedDict'>
+  'num':      135 (0x87)
+  'name':     'fgets'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 470512 (0x72df0)
+      'size':   99 (0x63)
+136: <dict, 4 items, class 'OrderedDict'>
+  'num':      136 (0x88)
+  'name':     'strncmp'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 470611 (0x72e53)
+      'size':   41 (0x29)
+137: <dict, 4 items, class 'OrderedDict'>
+  'num':      137 (0x89)
+  'name':     'sscanf'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 470652 (0x72e7c)
+      'size':   117 (0x75)
+138: <dict, 4 items, class 'OrderedDict'>
+  'num':      138 (0x8a)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSSTART.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 470769 (0x72ef1)
+      'size':   2664 (0xa68)
+139: <dict, 4 items, class 'OrderedDict'>
+  'num':      139 (0x8b)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSINIT.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 473433 (0x73959)
+      'size':   5055 (0x13bf)
+140: <dict, 4 items, class 'OrderedDict'>
+  'num':      140 (0x8c)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSTMR.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 478488 (0x74d18)
+      'size':   1975 (0x7b7)
+141: <dict, 4 items, class 'OrderedDict'>
+  'num':      141 (0x8d)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSCNTL.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 480463 (0x754cf)
+      'size':   1668 (0x684)
+142: <dict, 4 items, class 'OrderedDict'>
+  'num':      142 (0x8e)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSPLYNG.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482131 (0x75b53)
+      'size':   137 (0x89)
+143: <dict, 4 items, class 'OrderedDict'>
+  'num':      143 (0x8f)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSDATA.C'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67232 (0x106a0)
+      'size':   488 (0x1e8)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 82572 (0x1428c)
+      'size':   3868 (0xf1c)
+144: <dict, 4 items, class 'OrderedDict'>
+  'num':      144 (0x90)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSDONE.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482268 (0x75bdc)
+      'size':   256 (0x100)
+145: <dict, 4 items, class 'OrderedDict'>
+  'num':      145 (0x91)
+  'name':     'calloc'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482524 (0x75cdc)
+      'size':   24 (0x18)
+146: <dict, 4 items, class 'OrderedDict'>
+  'num':      146 (0x92)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSERR.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482548 (0x75cf4)
+      'size':   84 (0x54)
+147: <dict, 4 items, class 'OrderedDict'>
+  'num':      147 (0x93)
+  'name':     'fchop'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482632 (0x75d48)
+      'size':   29 (0x1d)
+148: <dict, 4 items, class 'OrderedDict'>
+  'num':      148 (0x94)
+  'name':     'filelen'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482661 (0x75d65)
+      'size':   61 (0x3d)
+149: <dict, 4 items, class 'OrderedDict'>
+  'num':      149 (0x95)
+  'name':     'istable'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69016 (0x10d98)
+      'size':   260 (0x104)
+150: <dict, 4 items, class 'OrderedDict'>
+  'num':      150 (0x96)
+  'name':     'errno'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482722 (0x75da2)
+      'size':   12 (0xc)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 206008 (0x324b8)
+      'size':   8 (0x8)
+151: <dict, 4 items, class 'OrderedDict'>
+  'num':      151 (0x97)
+  'name':     'strncpy'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482734 (0x75dae)
+      'size':   37 (0x25)
+152: <dict, 4 items, class 'OrderedDict'>
+  'num':      152 (0x98)
+  'name':     'fread'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 482771 (0x75dd3)
+      'size':   458 (0x1ca)
+153: <dict, 4 items, class 'OrderedDict'>
+  'num':      153 (0x99)
+  'name':     'fgetc'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 483229 (0x75f9d)
+      'size':   355 (0x163)
+154: <dict, 4 items, class 'OrderedDict'>
+  'num':      154 (0x9a)
+  'name':     'fseek'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 483584 (0x76100)
+      'size':   318 (0x13e)
+155: <dict, 4 items, class 'OrderedDict'>
+  'num':      155 (0x9b)
+  'name':     'fwrite'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 483902 (0x7623e)
+      'size':   498 (0x1f2)
+156: <dict, 4 items, class 'OrderedDict'>
+  'num':      156 (0x9c)
+  'name':     'cmp386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 484400 (0x76430)
+      'size':   161 (0xa1)
+157: <dict, 4 items, class 'OrderedDict'>
+  'num':      157 (0x9d)
+  'name':     'rand'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 484561 (0x764d1)
+      'size':   59 (0x3b)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 86440 (0x151a8)
+      'size':   4 (0x4)
+158: <dict, 4 items, class 'OrderedDict'>
+  'num':      158 (0x9e)
+  'name':     'opnewarr'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 484620 (0x7650c)
+      'size':   5 (0x5)
+159: <dict, 4 items, class 'OrderedDict'>
+  'num':      159 (0x9f)
+  'name':     'atol'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 484625 (0x76511)
+      'size':   87 (0x57)
+160: <dict, 4 items, class 'OrderedDict'>
+  'num':      160 (0xa0)
+  'name':     'getch'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 484712 (0x76568)
+      'size':   29 (0x1d)
+161: <dict, 4 items, class 'OrderedDict'>
+  'num':      161 (0xa1)
+  'name':     'd32_ldt.c'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 484741 (0x76585)
+      'size':   371 (0x173)
+162: <dict, 4 items, class 'OrderedDict'>
+  'num':      162 (0xa2)
+  'name':     'd_getvec'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485112 (0x766f8)
+      'size':   52 (0x34)
+163: <dict, 4 items, class 'OrderedDict'>
+  'num':      163 (0xa3)
+  'name':     'd_setvec'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485164 (0x7672c)
+      'size':   44 (0x2c)
+164: <dict, 4 items, class 'OrderedDict'>
+  'num':      164 (0xa4)
+  'name':     'hrder386'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485208 (0x76758)
+      'size':   222 (0xde)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 86444 (0x151ac)
+      'size':   16 (0x10)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 206016 (0x324c0)
+      'size':   1024 (0x400)
+165: <dict, 4 items, class 'OrderedDict'>
+  'num':      165 (0xa5)
+  'name':     'find386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485430 (0x76836)
+      'size':   130 (0x82)
+166: <dict, 4 items, class 'OrderedDict'>
+  'num':      166 (0xa6)
+  'name':     'segread'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485560 (0x768b8)
+      'size':   40 (0x28)
+167: <dict, 4 items, class 'OrderedDict'>
+  'num':      167 (0xa7)
+  'name':     'tmpnm'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485600 (0x768e0)
+      'size':   244 (0xf4)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67720 (0x10888)
+      'size':   8 (0x8)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207040 (0x328c0)
+      'size':   16 (0x10)
+168: <dict, 4 items, class 'OrderedDict'>
+  'num':      168 (0xa8)
+  'name':     'atoi'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485844 (0x769d4)
+      'size':   87 (0x57)
+169: <dict, 4 items, class 'OrderedDict'>
+  'num':      169 (0xa9)
+  'name':     'signl'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 485931 (0x76a2b)
+      'size':   438 (0x1b6)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 86460 (0x151bc)
+      'size':   52 (0x34)
+170: <dict, 4 items, class 'OrderedDict'>
+  'num':      170 (0xaa)
+  'name':     'fprintf'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486369 (0x76be1)
+      'size':   33 (0x21)
+171: <dict, 4 items, class 'OrderedDict'>
+  'num':      171 (0xab)
+  'name':     'itoa'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486402 (0x76c02)
+      'size':   138 (0x8a)
+172: <dict, 4 items, class 'OrderedDict'>
+  'num':      172 (0xac)
+  'name':     'putch'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486540 (0x76c8c)
+      'size':   15 (0xf)
+173: <dict, 4 items, class 'OrderedDict'>
+  'num':      173 (0xad)
+  'name':     'rewind'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486555 (0x76c9b)
+      'size':   23 (0x17)
+174: <dict, 4 items, class 'OrderedDict'>
+  'num':      174 (0xae)
+  'name':     'fputs'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486578 (0x76cb2)
+      'size':   129 (0x81)
+175: <dict, 4 items, class 'OrderedDict'>
+  'num':      175 (0xaf)
+  'name':     'fputc'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486707 (0x76d33)
+      'size':   165 (0xa5)
+176: <dict, 4 items, class 'OrderedDict'>
+  'num':      176 (0xb0)
+  'name':     'sosdrv.asm'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 486872 (0x76dd8)
+      'size':   2180 (0x884)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 86512 (0x151f0)
+      'size':   260 (0x104)
+177: <dict, 4 items, class 'OrderedDict'>
+  'num':      177 (0xb1)
+  'name':     'common.asm'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 489052 (0x7765c)
+      'size':   242 (0xf2)
+178: <dict, 4 items, class 'OrderedDict'>
+  'num':      178 (0xb2)
+  'name':     'd32_en16.c'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 489294 (0x7774e)
+      'size':   198 (0xc6)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207056 (0x328d0)
+      'size':   8 (0x8)
+179: <dict, 4 items, class 'OrderedDict'>
+  'num':      179 (0xb3)
+  'name':     'special.asm'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 489492 (0x77814)
+      'size':   430 (0x1ae)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93744 (0x16e30)
+      'size':   4100 (0x1004)
+180: <dict, 4 items, class 'OrderedDict'>
+  'num':      180 (0xb4)
+  'name':     'd32_trns.c'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 489922 (0x779c2)
+      'size':   149 (0x95)
+181: <dict, 4 items, class 'OrderedDict'>
+  'num':      181 (0xb5)
+  'name':     'iob'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 86772 (0x152f4)
+      'size':   532 (0x214)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207064 (0x328d8)
+      'size':   4 (0x4)
+182: <dict, 4 items, class 'OrderedDict'>
+  'num':      182 (0xb6)
+  'name':     'fprtf'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 490071 (0x77a57)
+      'size':   151 (0x97)
+183: <dict, 4 items, class 'OrderedDict'>
+  'num':      183 (0xb7)
+  'name':     'environ'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87304 (0x15508)
+      'size':   8 (0x8)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93682 (0x16df2)
+      'size':   6 (0x6)
+184: <dict, 4 items, class 'OrderedDict'>
+  'num':      184 (0xb8)
+  'name':     'strnicmp'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 490222 (0x77aee)
+      'size':   87 (0x57)
+185: <dict, 4 items, class 'OrderedDict'>
+  'num':      185 (0xb9)
+  'name':     'prtf'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 490309 (0x77b45)
+      'size':   2554 (0x9fa)
+186: <dict, 4 items, class 'OrderedDict'>
+  'num':      186 (0xba)
+  'name':     'tolower'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 492863 (0x7853f)
+      'size':   14 (0xe)
+187: <dict, 4 items, class 'OrderedDict'>
+  'num':      187 (0xbb)
+  'name':     'seterrno'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 492877 (0x7854d)
+      'size':   59 (0x3b)
+188: <dict, 4 items, class 'OrderedDict'>
+  'num':      188 (0xbc)
+  'name':     'allocfp'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 492936 (0x78588)
+      'size':   255 (0xff)
+189: <dict, 4 items, class 'OrderedDict'>
+  'num':      189 (0xbd)
+  'name':     'chktty'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493191 (0x78687)
+      'size':   49 (0x31)
+190: <dict, 4 items, class 'OrderedDict'>
+  'num':      190 (0xbe)
+  'name':     'stinit'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93688 (0x16df8)
+      'size':   6 (0x6)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93724 (0x16e1c)
+      'size':   20 (0x14)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207068 (0x328dc)
+      'size':   4 (0x4)
+191: <dict, 4 items, class 'OrderedDict'>
+  'num':      191 (0xbf)
+  'name':     'gtpid'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493240 (0x786b8)
+      'size':   6 (0x6)
+192: <dict, 4 items, class 'OrderedDict'>
+  'num':      192 (0xc0)
+  'name':     'flush'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493246 (0x786be)
+      'size':   191 (0xbf)
+193: <dict, 4 items, class 'OrderedDict'>
+  'num':      193 (0xc1)
+  'name':     'ftell'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493437 (0x7877d)
+      'size':   48 (0x30)
+194: <dict, 4 items, class 'OrderedDict'>
+  'num':      194 (0xc2)
+  'name':     '_clse'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493485 (0x787ad)
+      'size':   50 (0x32)
+195: <dict, 4 items, class 'OrderedDict'>
+  'num':      195 (0xc3)
+  'name':     'remove'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493535 (0x787df)
+      'size':   5 (0x5)
+196: <dict, 4 items, class 'OrderedDict'>
+  'num':      196 (0xc4)
+  'name':     'dosret'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493540 (0x787e4)
+      'size':   114 (0x72)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87312 (0x15510)
+      'size':   20 (0x14)
+197: <dict, 4 items, class 'OrderedDict'>
+  'num':      197 (0xc5)
+  'name':     'cmain386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493654 (0x78856)
+      'size':   80 (0x50)
+198: <dict, 4 items, class 'OrderedDict'>
+  'num':      198 (0xc6)
+  'name':     'inirt386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493734 (0x788a6)
+      'size':   154 (0x9a)
+199: <dict, 4 items, class 'OrderedDict'>
+  'num':      199 (0xc7)
+  'name':     'seg386'
+  'language': 'C'
+  'offsets':  <list, 0 items, class 'list'>
+200: <dict, 4 items, class 'OrderedDict'>
+  'num':      200 (0xc8)
+  'name':     'setefg'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493888 (0x78940)
+      'size':   28 (0x1c)
+201: <dict, 4 items, class 'OrderedDict'>
+  'num':      201 (0xc9)
+  'name':     'dosinite'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 493916 (0x7895c)
+      'size':   603 (0x25b)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87332 (0x15524)
+      'size':   76 (0x4c)
+202: <dict, 4 items, class 'OrderedDict'>
+  'num':      202 (0xca)
+  'name':     'chk8087'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 494519 (0x78bb7)
+      'size':   132 (0x84)
+203: <dict, 4 items, class 'OrderedDict'>
+  'num':      203 (0xcb)
+  'name':     'initargv'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 494651 (0x78c3b)
+      'size':   437 (0x1b5)
+204: <dict, 4 items, class 'OrderedDict'>
+  'num':      204 (0xcc)
+  'name':     '__stos'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 495088 (0x78df0)
+      'size':   164 (0xa4)
+205: <dict, 4 items, class 'OrderedDict'>
+  'num':      205 (0xcd)
+  'name':     'memalloc'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 495252 (0x78e94)
+      'size':   436 (0x1b4)
+206: <dict, 4 items, class 'OrderedDict'>
+  'num':      206 (0xce)
+  'name':     'heapmod'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207072 (0x328e0)
+      'size':   4 (0x4)
+207: <dict, 4 items, class 'OrderedDict'>
+  'num':      207 (0xcf)
+  'name':     'fatalerr'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 495688 (0x79048)
+      'size':   29 (0x1d)
+208: <dict, 4 items, class 'OrderedDict'>
+  'num':      208 (0xd0)
+  'name':     'grownear'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 495717 (0x79065)
+      'size':   1439 (0x59f)
+209: <dict, 4 items, class 'OrderedDict'>
+  'num':      209 (0xd1)
+  'name':     'nmemneed'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497156 (0x79604)
+      'size':   3 (0x3)
+210: <dict, 4 items, class 'OrderedDict'>
+  'num':      210 (0xd2)
+  'name':     'isatt'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497159 (0x79607)
+      'size':   30 (0x1e)
+211: <dict, 4 items, class 'OrderedDict'>
+  'num':      211 (0xd3)
+  'name':     'umaskval'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87408 (0x15570)
+      'size':   4 (0x4)
+212: <dict, 4 items, class 'OrderedDict'>
+  'num':      212 (0xd4)
+  'name':     'iomode'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497189 (0x79625)
+      'size':   106 (0x6a)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87412 (0x15574)
+      'size':   88 (0x58)
+213: <dict, 4 items, class 'OrderedDict'>
+  'num':      213 (0xd5)
+  'name':     'stack386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497295 (0x7968f)
+      'size':   9 (0x9)
+214: <dict, 4 items, class 'OrderedDict'>
+  'num':      214 (0xd6)
+  'name':     'stk386'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497304 (0x79698)
+      'size':   72 (0x48)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87500 (0x155cc)
+      'size':   20 (0x14)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93694 (0x16dfe)
+      'size':   6 (0x6)
+215: <dict, 4 items, class 'OrderedDict'>
+  'num':      215 (0xd7)
+  'name':     'math87e'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497376 (0x796e0)
+      'size':   124 (0x7c)
+216: <dict, 4 items, class 'OrderedDict'>
+  'num':      216 (0xd8)
+  'name':     'cppdata'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207076 (0x328e4)
+      'size':   56 (0x38)
+217: <dict, 4 items, class 'OrderedDict'>
+  'num':      217 (0xd9)
+  'name':     'prwdata'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87520 (0x155e0)
+      'size':   8 (0x8)
+218: <dict, 4 items, class 'OrderedDict'>
+  'num':      218 (0xda)
+  'name':     'stabdtor'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 497500 (0x7975c)
+      'size':   500 (0x1f4)
+219: <dict, 4 items, class 'OrderedDict'>
+  'num':      219 (0xdb)
+  'name':     'stabreg'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 498000 (0x79950)
+      'size':   51 (0x33)
+220: <dict, 4 items, class 'OrderedDict'>
+  'num':      220 (0xdc)
+  'name':     'delay'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 498051 (0x79983)
+      'size':   107 (0x6b)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207132 (0x3291c)
+      'size':   4 (0x4)
+221: <dict, 4 items, class 'OrderedDict'>
+  'num':      221 (0xdd)
+  'name':     'intxa386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 498158 (0x799ee)
+      'size':   990 (0x3de)
+222: <dict, 4 items, class 'OrderedDict'>
+  'num':      222 (0xde)
+  'name':     'clock'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 499148 (0x79dcc)
+      'size':   135 (0x87)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207136 (0x32920)
+      'size':   4 (0x4)
+223: <dict, 4 items, class 'OrderedDict'>
+  'num':      223 (0xdf)
+  'name':     'strcpy'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 499283 (0x79e53)
+      'size':   31 (0x1f)
+224: <dict, 4 items, class 'OrderedDict'>
+  'num':      224 (0xe0)
+  'name':     'strcat'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 499314 (0x79e72)
+      'size':   56 (0x38)
+225: <dict, 4 items, class 'OrderedDict'>
+  'num':      225 (0xe1)
+  'name':     'io386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 499370 (0x79eaa)
+      'size':   49 (0x31)
+226: <dict, 4 items, class 'OrderedDict'>
+  'num':      226 (0xe2)
+  'name':     'scnf'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 499419 (0x79edb)
+      'size':   2890 (0xb4a)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69276 (0x10e9c)
+      'size':   8 (0x8)
+227: <dict, 4 items, class 'OrderedDict'>
+  'num':      227 (0xe3)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSCAPS.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 502309 (0x7aa25)
+      'size':   187 (0xbb)
+228: <dict, 4 items, class 'OrderedDict'>
+  'num':      228 (0xe4)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSLOAD.C'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 502496 (0x7aae0)
+      'size':   1473 (0x5c1)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67728 (0x10890)
+      'size':   12 (0xc)
+229: <dict, 4 items, class 'OrderedDict'>
+  'num':      229 (0xe5)
+  'name':     'C:\\DONS\\SOSDIGIW\\SOSLIB\\SRC\\SOSRATE.C'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 503969 (0x7b0a1)
+      'size':   143 (0x8f)
+230: <dict, 4 items, class 'OrderedDict'>
+  'num':      230 (0xe6)
+  'name':     'sostimer.asm'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 504112 (0x7b130)
+      'size':   691 (0x2b3)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 87528 (0x155e8)
+      'size':   4160 (0x1040)
+231: <dict, 4 items, class 'OrderedDict'>
+  'num':      231 (0xe7)
+  'name':     'fstrcpy'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 504803 (0x7b3e3)
+      'size':   51 (0x33)
+232: <dict, 4 items, class 'OrderedDict'>
+  'num':      232 (0xe8)
+  'name':     'fmemcpy'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 504854 (0x7b416)
+      'size':   40 (0x28)
+233: <dict, 4 items, class 'OrderedDict'>
+  'num':      233 (0xe9)
+  'name':     'ioalloc'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 504894 (0x7b43e)
+      'size':   119 (0x77)
+234: <dict, 4 items, class 'OrderedDict'>
+  'num':      234 (0xea)
+  'name':     'qread'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505013 (0x7b4b5)
+      'size':   31 (0x1f)
+235: <dict, 4 items, class 'OrderedDict'>
+  'num':      235 (0xeb)
+  'name':     'flushall'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505044 (0x7b4d4)
+      'size':   52 (0x34)
+236: <dict, 4 items, class 'OrderedDict'>
+  'num':      236 (0xec)
+  'name':     'gtche'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505096 (0x7b508)
+      'size':   29 (0x1d)
+237: <dict, 4 items, class 'OrderedDict'>
+  'num':      237 (0xed)
+  'name':     'tell'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505125 (0x7b525)
+      'size':   17 (0x11)
+238: <dict, 4 items, class 'OrderedDict'>
+  'num':      238 (0xee)
+  'name':     'error386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505142 (0x7b536)
+      'size':   19 (0x13)
+239: <dict, 4 items, class 'OrderedDict'>
+  'num':      239 (0xef)
+  'name':     'accss'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505161 (0x7b549)
+      'size':   59 (0x3b)
+240: <dict, 4 items, class 'OrderedDict'>
+  'num':      240 (0xf0)
+  'name':     'abort'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505220 (0x7b584)
+      'size':   24 (0x18)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67740 (0x1089c)
+      'size':   24 (0x18)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91688 (0x16628)
+      'size':   4 (0x4)
+241: <dict, 4 items, class 'OrderedDict'>
+  'num':      241 (0xf1)
+  'name':     'sigsy'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 505244 (0x7b59c)
+      'size':   1459 (0x5b3)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91692 (0x1662c)
+      'size':   28 (0x1c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 207140 (0x32924)
+      'size':   1024 (0x400)
+242: <dict, 4 items, class 'OrderedDict'>
+  'num':      242 (0xf2)
+  'name':     'grabfpe'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 506703 (0x7bb4f)
+      'size':   5 (0x5)
+243: <dict, 4 items, class 'OrderedDict'>
+  'num':      243 (0xf3)
+  'name':     'd32_extn.c'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 506708 (0x7bb54)
+      'size':   102 (0x66)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67764 (0x108b4)
+      'size':   16 (0x10)
+244: <dict, 4 items, class 'OrderedDict'>
+  'num':      244 (0xf4)
+  'name':     'setenvp'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 506810 (0x7bbba)
+      'size':   212 (0xd4)
+245: <dict, 4 items, class 'OrderedDict'>
+  'num':      245 (0xf5)
+  'name':     'noefgfmt'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507022 (0x7bc8e)
+      'size':   18 (0x12)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67780 (0x108c4)
+      'size':   36 (0x24)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91720 (0x16648)
+      'size':   8 (0x8)
+246: <dict, 4 items, class 'OrderedDict'>
+  'num':      246 (0xf6)
+  'name':     'ltoa'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507040 (0x7bca0)
+      'size':   137 (0x89)
+247: <dict, 4 items, class 'OrderedDict'>
+  'num':      247 (0xf7)
+  'name':     'toupper'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507177 (0x7bd29)
+      'size':   14 (0xe)
+248: <dict, 4 items, class 'OrderedDict'>
+  'num':      248 (0xf8)
+  'name':     'initfile'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507191 (0x7bd37)
+      'size':   120 (0x78)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67816 (0x108e8)
+      'size':   48 (0x30)
+249: <dict, 4 items, class 'OrderedDict'>
+  'num':      249 (0xf9)
+  'name':     'ioexit'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507311 (0x7bdaf)
+      'size':   99 (0x63)
+250: <dict, 4 items, class 'OrderedDict'>
+  'num':      250 (0xfa)
+  'name':     'qwrit'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507410 (0x7be12)
+      'size':   124 (0x7c)
+251: <dict, 4 items, class 'OrderedDict'>
+  'num':      251 (0xfb)
+  'name':     'cinit'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507534 (0x7be8e)
+      'size':   11 (0xb)
+252: <dict, 4 items, class 'OrderedDict'>
+  'num':      252 (0xfc)
+  'name':     '___argc'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 208164 (0x32d24)
+      'size':   8 (0x8)
+253: <dict, 4 items, class 'OrderedDict'>
+  'num':      253 (0xfd)
+  'name':     'efgfmt'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507545 (0x7be99)
+      'size':   293 (0x125)
+254: <dict, 4 items, class 'OrderedDict'>
+  'num':      254 (0xfe)
+  'name':     'cnvs2d'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507838 (0x7bfbe)
+      'size':   14 (0xe)
+255: <dict, 4 items, class 'OrderedDict'>
+  'num':      255 (0xff)
+  'name':     'emu387'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 507852 (0x7bfcc)
+      'size':   12838 (0x3226)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91728 (0x16650)
+      'size':   124 (0x7c)
+256: <dict, 4 items, class 'OrderedDict'>
+  'num':      256 (0x100)
+  'name':     'hook387'
+  'language': 'C'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 520690 (0x7f1f2)
+      'size':   291 (0x123)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67864 (0x10918)
+      'size':   16 (0x10)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91852 (0x166cc)
+      'size':   4 (0x4)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 208172 (0x32d2c)
+      'size':   128 (0x80)
+257: <dict, 4 items, class 'OrderedDict'>
+  'num':      257 (0x101)
+  'name':     '8087cw'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91856 (0x166d0)
+      'size':   4 (0x4)
+258: <dict, 4 items, class 'OrderedDict'>
+  'num':      258 (0x102)
+  'name':     'save8087'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 520981 (0x7f315)
+      'size':   1 (0x1)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91860 (0x166d4)
+      'size':   8 (0x8)
+259: <dict, 4 items, class 'OrderedDict'>
+  'num':      259 (0x103)
+  'name':     'ini87386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 520982 (0x7f316)
+      'size':   39 (0x27)
+260: <dict, 4 items, class 'OrderedDict'>
+  'num':      260 (0x104)
+  'name':     'enterdb'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 521021 (0x7f33d)
+      'size':   38 (0x26)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91868 (0x166dc)
+      'size':   4 (0x4)
+261: <dict, 4 items, class 'OrderedDict'>
+  'num':      261 (0x105)
+  'name':     'xmsg'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 521059 (0x7f363)
+      'size':   34 (0x22)
+262: <dict, 4 items, class 'OrderedDict'>
+  'num':      262 (0x106)
+  'name':     'minreal'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 208300 (0x32dac)
+      'size':   4 (0x4)
+263: <dict, 4 items, class 'OrderedDict'>
+  'num':      263 (0x107)
+  'name':     'heapen'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 521093 (0x7f385)
+      'size':   16 (0x10)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91872 (0x166e0)
+      'size':   4 (0x4)
+264: <dict, 4 items, class 'OrderedDict'>
+  'num':      264 (0x108)
+  'name':     'sbrk386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 521109 (0x7f395)
+      'size':   385 (0x181)
+265: <dict, 4 items, class 'OrderedDict'>
+  'num':      265 (0x109)
+  'name':     'amblksiz'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91876 (0x166e4)
+      'size':   4 (0x4)
+266: <dict, 4 items, class 'OrderedDict'>
+  'num':      266 (0x10a)
+  'name':     'math2err'
+  'language': 'C'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 521494 (0x7f516)
+      'size':   230 (0xe6)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67880 (0x10928)
+      'size':   108 (0x6c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91880 (0x166e8)
+      'size':   92 (0x5c)
+267: <dict, 4 items, class 'OrderedDict'>
+  'num':      267 (0x10b)
+  'name':     'stabtrav'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 521724 (0x7f5fc)
+      'size':   364 (0x16c)
+268: <dict, 4 items, class 'OrderedDict'>
+  'num':      268 (0x10c)
+  'name':     'stabthrw'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 522088 (0x7f768)
+      'size':   1752 (0x6d8)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 67988 (0x10994)
+      'size':   400 (0x190)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93700 (0x16e04)
+      'size':   6 (0x6)
+269: <dict, 4 items, class 'OrderedDict'>
+  'num':      269 (0x10d)
+  'name':     'stabadt'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 523840 (0x7fe40)
+      'size':   46 (0x2e)
+270: <dict, 4 items, class 'OrderedDict'>
+  'num':      270 (0x10e)
+  'name':     'intd386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 523886 (0x7fe6e)
+      'size':   76 (0x4c)
+271: <dict, 4 items, class 'OrderedDict'>
+  'num':      271 (0x10f)
+  'name':     'fdfs386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 523962 (0x7feba)
+      'size':   76 (0x4c)
+272: <dict, 4 items, class 'OrderedDict'>
+  'num':      272 (0x110)
+  'name':     'chint386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 524038 (0x7ff06)
+      'size':   25 (0x19)
+273: <dict, 4 items, class 'OrderedDict'>
+  'num':      273 (0x111)
+  'name':     'grabfp87'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 524063 (0x7ff1f)
+      'size':   49 (0x31)
+274: <dict, 4 items, class 'OrderedDict'>
+  'num':      274 (0x112)
+  'name':     'ftos'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 524112 (0x7ff50)
+      'size':   927 (0x39f)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91972 (0x16744)
+      'size':   4 (0x4)
+275: <dict, 4 items, class 'OrderedDict'>
+  'num':      275 (0x113)
+  'name':     'strtod'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525039 (0x802ef)
+      'size':   462 (0x1ce)
+276: <dict, 4 items, class 'OrderedDict'>
+  'num':      276 (0x114)
+  'name':     'hugeval'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69284 (0x10ea4)
+      'size':   8 (0x8)
+277: <dict, 4 items, class 'OrderedDict'>
+  'num':      277 (0x115)
+  'name':     '_matherr'
+  'language': 'C'
+  'offsets':  <list, 4 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525501 (0x804bd)
+      'size':   127 (0x7f)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68388 (0x10b24)
+      'size':   140 (0x8c)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69292 (0x10eac)
+      'size':   28 (0x1c)
+    3: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91976 (0x16748)
+      'size':   4 (0x4)
+278: <dict, 4 items, class 'OrderedDict'>
+  'num':      278 (0x116)
+  'name':     'bittest'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525628 (0x8053c)
+      'size':   32 (0x20)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91980 (0x1674c)
+      'size':   8 (0x8)
+279: <dict, 4 items, class 'OrderedDict'>
+  'num':      279 (0x117)
+  'name':     'callterm'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525660 (0x8055c)
+      'size':   5 (0x5)
+280: <dict, 4 items, class 'OrderedDict'>
+  'num':      280 (0x118)
+  'name':     'tsequiv'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525665 (0x80561)
+      'size':   67 (0x43)
+281: <dict, 4 items, class 'OrderedDict'>
+  'num':      281 (0x119)
+  'name':     'callunex'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525732 (0x805a4)
+      'size':   6 (0x6)
+282: <dict, 4 items, class 'OrderedDict'>
+  'num':      282 (0x11a)
+  'name':     'stjmp386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525738 (0x805aa)
+      'size':   146 (0x92)
+283: <dict, 4 items, class 'OrderedDict'>
+  'num':      283 (0x11b)
+  'name':     'allocexc'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 525884 (0x8063c)
+      'size':   408 (0x198)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68528 (0x10bb0)
+      'size':   44 (0x2c)
+284: <dict, 4 items, class 'OrderedDict'>
+  'num':      284 (0x11c)
+  'name':     'ljmphdl'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 526292 (0x807d4)
+      'size':   4 (0x4)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91988 (0x16754)
+      'size':   4 (0x4)
+285: <dict, 4 items, class 'OrderedDict'>
+  'num':      285 (0x11d)
+  'name':     'stabarr'
+  'language': 'CPP'
+  'offsets':  <list, 3 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 526296 (0x807d8)
+      'size':   94 (0x5e)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 91992 (0x16758)
+      'size':   12 (0xc)
+    2: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93706 (0x16e0a)
+      'size':   6 (0x6)
+286: <dict, 4 items, class 'OrderedDict'>
+  'num':      286 (0x11e)
+  'name':     'fpe387'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 526390 (0x80836)
+      'size':   186 (0xba)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 92004 (0x16764)
+      'size':   12 (0xc)
+287: <dict, 4 items, class 'OrderedDict'>
+  'num':      287 (0x11f)
+  'name':     'fpeinth'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 526576 (0x808f0)
+      'size':   608 (0x260)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 92016 (0x16770)
+      'size':   540 (0x21c)
+288: <dict, 4 items, class 'OrderedDict'>
+  'num':      288 (0x120)
+  'name':     'nan_inf'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 527184 (0x80b50)
+      'size':   132 (0x84)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68572 (0x10bdc)
+      'size':   8 (0x8)
+289: <dict, 4 items, class 'OrderedDict'>
+  'num':      289 (0x121)
+  'name':     'floor'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 527316 (0x80bd4)
+      'size':   60 (0x3c)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68580 (0x10be4)
+      'size':   8 (0x8)
+290: <dict, 4 items, class 'OrderedDict'>
+  'num':      290 (0x122)
+  'name':     'scale'
+  'language': 'C'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 527376 (0x80c10)
+      'size':   296 (0x128)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69320 (0x10ec8)
+      'size':   32 (0x20)
+291: <dict, 4 items, class 'OrderedDict'>
+  'num':      291 (0x123)
+  'name':     'cvt'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 527672 (0x80d38)
+      'size':   486 (0x1e6)
+292: <dict, 4 items, class 'OrderedDict'>
+  'num':      292 (0x124)
+  'name':     'amodf386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528158 (0x80f1e)
+      'size':   300 (0x12c)
+293: <dict, 4 items, class 'OrderedDict'>
+  'num':      293 (0x125)
+  'name':     '__mtherr'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528458 (0x8104a)
+      'size':   5 (0x5)
+294: <dict, 4 items, class 'OrderedDict'>
+  'num':      294 (0x126)
+  'name':     'iobaddr'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528463 (0x8104f)
+      'size':   33 (0x21)
+295: <dict, 4 items, class 'OrderedDict'>
+  'num':      295 (0x127)
+  'name':     'termnate'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528496 (0x81070)
+      'size':   76 (0x4c)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68588 (0x10bec)
+      'size':   36 (0x24)
+296: <dict, 4 items, class 'OrderedDict'>
+  'num':      296 (0x128)
+  'name':     'unexpect'
+  'language': 'CPP'
+  'offsets':  <list, 2 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528572 (0x810bc)
+      'size':   52 (0x34)
+    1: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 68624 (0x10c10)
+      'size':   36 (0x24)
+297: <dict, 4 items, class 'OrderedDict'>
+  'num':      297 (0x129)
+  'name':     'areaexc'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 92556 (0x1698c)
+      'size':   1024 (0x400)
+298: <dict, 4 items, class 'OrderedDict'>
+  'num':      298 (0x12a)
+  'name':     'tssize'
+  'language': 'CPP'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528624 (0x810f0)
+      'size':   98 (0x62)
+299: <dict, 4 items, class 'OrderedDict'>
+  'num':      299 (0x12b)
+  'name':     'fpephar'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528722 (0x81152)
+      'size':   240 (0xf0)
+300: <dict, 4 items, class 'OrderedDict'>
+  'num':      300 (0x12c)
+  'name':     'fpedos4g'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 528962 (0x81242)
+      'size':   70 (0x46)
+301: <dict, 4 items, class 'OrderedDict'>
+  'num':      301 (0x12d)
+  'name':     'fpeergo'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 529032 (0x81288)
+      'size':   88 (0x58)
+302: <dict, 4 items, class 'OrderedDict'>
+  'num':      302 (0x12e)
+  'name':     'fpeintel'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 529120 (0x812e0)
+      'size':   90 (0x5a)
+303: <dict, 4 items, class 'OrderedDict'>
+  'num':      303 (0x12f)
+  'name':     'modf387'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 529210 (0x8133a)
+      'size':   26 (0x1a)
+304: <dict, 4 items, class 'OrderedDict'>
+  'num':      304 (0x130)
+  'name':     'i64ts386'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 529236 (0x81354)
+      'size':   454 (0x1c6)
+305: <dict, 4 items, class 'OrderedDict'>
+  'num':      305 (0x131)
+  'name':     'fpow10'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 69352 (0x10ee8)
+      'size':   80 (0x50)
+306: <dict, 4 items, class 'OrderedDict'>
+  'num':      306 (0x132)
+  'name':     'frexp'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 529690 (0x8151a)
+      'size':   111 (0x6f)
+307: <dict, 4 items, class 'OrderedDict'>
+  'num':      307 (0x133)
+  'name':     'matherr'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 1 (0x1)
+      'offset': 529801 (0x81589)
+      'size':   3 (0x3)
+308: <dict, 4 items, class 'OrderedDict'>
+  'num':      308 (0x134)
+  'name':     'fpeint'
+  'language': 'C'
+  'offsets':  <list, 1 items, class 'list'>
+    0: <dict, 3 items, class 'OrderedDict'>
+      'object': 3 (0x3)
+      'offset': 93580 (0x16d8c)
+      'size':   6 (0x6)
